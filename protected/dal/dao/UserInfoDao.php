@@ -41,14 +41,14 @@ class UserInfoDao {
     }
     
 	function addUser($user_name,$mail,$pwd,$insert_time){
+		$uid = Yii::app()->uuid->getUid();
 		$sql = "INSERT INTO  
-				user(user_name,mail,pwd,insert_time) 
-				VALUES('$user_name','$mail','$pwd','$insert_time');";
+				user(id,user_name,mail,pwd,insert_time) 
+				VALUES('$uid','$user_name','$mail','$pwd','$insert_time');";
 		$command = Yii::app()->db->createCommand($sql);
 		$execute_result = $command->execute();
 		if($execute_result){
-			$insert_id=Yii::app()->db->getLastInsertId();
-        	return $insert_id;	
+        	return $uid;
 		}
         return false;
 	}
