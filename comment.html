@@ -1,0 +1,275 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>index</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+<link rel="shortcut icon" href="favicon.ico" />
+<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script src="js/all.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="page">
+	<div id="header">
+		<div class="contain">
+			<ul class="left">
+				<li style="background:none;"><a href="#"><img src="./image/logo3.jpg" height="55px"/></a></li>
+				<li><a href="/">首页</a></li>
+				<li><a href="#">推荐体育馆</a></li>
+				<li style="background:none;"><a href="javascript:addToFavorite()">收藏本站</a></li>
+			</ul>
+			<ul class="right" id="if_login">
+					<li>您好！欢迎来到一点就订！<a href="/index.php/site/login"><img src="./image/header_login.jpg"></a>&nbsp;&nbsp;<a href="/index.php/site/register"><img src="./image/header_register.jpg"></a></li>
+				<!--
+					<li>DPX&nbsp;&nbsp;&nbsp;<a href="">我的订单</a>&nbsp;&nbsp;&nbsp;<a href="/index.php/site/loginout">[退出]</a></li>
+					-->
+				<?php }?>
+			</ul>
+			<span class="clr"></span>
+		</div>
+	</div><!-- header -->
+	<div class="container new_detail_head">
+		<div class="row">
+			<div class="span2"><img class="bp" src="./image/test/yuqiu.jpg" /></div>
+			<div class="span6">
+				<div class="detail_head_desc">
+					<div class="detail_head_name">
+						<span class="right">
+							<span class="freeTag0 f_bt" id="nCollect" onclick="collection(84001993, 'sport', 'collection')"></span>
+						</span>
+						<h1>激荡羽球-银都馆</h1>
+					</div>
+					<dl class="clearfix">
+						<dt>详细地址：</dt>
+						<dd>
+							<a target="_blank" title="闵行区" href="/sport/sportList.xhtml?countycode=310112" class="cSport">闵行区</a>				申南一路80号（中春路延银都路往西500米，近银都路中春路）
+							[<a class="blue" href="/common/baiduMap.xhtml?id=84001993&amp;tag=sport" target="_black">地图</a>]
+							<a class="freeTag0 i_note" onclick="showTemplate();" href="javascript:void(0)" title="免费发送信息到手机"></a>
+						</dd>
+					</dl>
+					<dl>
+						<dt>联系电话：</dt>
+						<dd>13004136591</dd>
+						<dt>营业时间：</dt>
+						<dd>09:00-23:00</dd>
+						<dt>运动项目：</dt>
+						<dd>
+							羽毛球&nbsp;
+							乒乓球&nbsp;
+						</dd>
+					</dl>
+					<p class="mt10 clear">
+						<span class="right">
+							<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=" type="text/javascript" charset="utf-8"></script>
+							<wb:share-button count="n" type="button" ></wb:share-button>
+						</span>
+						<label class="sport_btn"><a class="btn btn-info" href="/sport/84001993/pricetable">立即预订</a></label>
+					</p>
+				</div>
+			
+			</div>
+			<div class="span4">
+				<div class="detail_head_ratings">
+					<dl class="clear">
+						<!-- <dt>评分：</dt> -->
+						<dd>
+							<div class="ratingsSide clearfix">
+								<!-- 传评分数gmark -->
+								<ul class="ui_big_ratings"><!-- 大的评分 -->
+													<li class="half"></li>
+													<li class="on"></li>
+													<li class="half"></li>
+													<li class="on"></li>
+													<li class="half"></li>
+													<li class="on"></li>
+													<li class="half"></li>
+													<li class="on"></li>
+													<li class="half"></li>
+													<li class="no"></li>
+								</ul>
+								<span><sub id="mark_integer">9</sub><sup id="mark_decimal">.0</sup></span>
+							</div>
+							<div class="ratingsGo">
+								
+								<div class="mt10">
+									<a href="javascript:void(0);" class="button minBt whiteBt btn btn-small" onclick="showMovieMark();"><span><em>我要评分</em></span></a>
+									<!--<span class="ml10 scoretips">详情</span>-->
+								</div>
+								<div class="gray mt10">来自<span class="brown fs14"><strong>13</strong></span>位用户推荐</div>
+							</div>
+							<div class="ratingsCount">
+								<span><b>123882</b>关注</span>|
+								<span><b>72</b>点评</span>
+							</div>
+						</dd>
+					</dl>
+				</div>
+			
+			
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<ul class="nav nav-tabs">
+			<li><a href="index.html">首页</a></li>
+			<li class="select"><a href="price.html">价格信息</a></li>
+			<li><a href="activitylist.html">活动<span>(7)</span></a></li>
+			<li class="active"><a href="comment.html">评论<span>(72)</span></a></li>
+			<li><a href="picturelist.html">场馆图片<span>(16)</span></a></li>
+			<li><a href="newslist.html">资讯<span>(1)</span></a></li>
+		</ul>
+        <!-- 贼里是评论部分 评论调new_wala.css -->
+        <link rel="stylesheet" type="text/css" href="css/new_wala.css" />
+        <div class="row">
+        	<div class="mt20 span11">
+				<div id="walaDiary">
+						<div class="ui_wala ">
+							<dl class="ui_wala_listing clear">
+								<dt style="top: 35px;" class="ui_wala_aside">
+									<a id="logonMember" class="pubpic" href="/home/sns/othersPersonIndex.xhtml?memberid=39397260">
+										<img width="50" height="50" id="logonMemberPic" src="http://img6.gewara.com/cw50h50/images/201204/headpic/s63de54fa_136ce475f95__7ebf.gif">
+									</a>
+								</dt>
+								<dd class="ui_wala_wrap">
+									<form id="bodyForm">
+										<div id="isModify" class="page_wala">
+											<div class="modify_alt">
+												<b class="left mt5">我要评分：</b>
+												<ul class="ui_big_ratings" id="walageneralmark">
+													<li lang="不推荐，不考虑" id="1"></li>
+													<li lang="不推荐，不考虑" class="no" id="2"></li>
+													<li lang="不推荐，不考虑" id="3"></li>
+													<li lang="凑合，别无选择可考虑" class="no" id="4"></li>
+													<li lang="凑合，别无选择可考虑" id="5"></li>
+													<li lang="不错，值得考虑" class="no" id="6"></li>
+													<li lang="不错，值得考虑" id="7"></li>
+													<li lang="很棒，推荐大家去" class="no" id="8"></li>
+													<li lang="很棒，推荐大家去" id="9"></li>
+													<li lang="最佳，绝对首选" class="no" id="10"></li>
+												</ul>
+												<sub class="ml10 mr10 left" id="walageneralmarkPoint"></sub> <span id="walageneralmarkDesc" class="brown left"></span>
+			
+											</div>
+											<div class="ui_wala_textArea">
+												<textarea lang="default" id="replycontent" name="replycontent" rows="3" style="width:98%;"></textarea>
+											</div>
+			
+											<div class="page_modify_dialog  page_modify_dialog_mini ">
+												<span lang="default" id="faceTags" class="iserm">表情<em
+													class="dmore"></em></span> <span lang="default"
+													onclick="gewa.util.dialogSingleUpdate(this,'','replycontent')"
+													class="ispic">图片</span> <label lang="default" for="Wb"
+													class="wb"> <em>同步到：<input type="checkbox"
+														lang="/home/bind/sina/userApp.xhtml?source=close"
+														title="新浪微博" id="Wb"></em> <span>新浪微博</span>
+												</label> <em class="right"> <a class="ibutton w90_button right"
+													href="javascript:gewaUtil.submitMicro();">发&nbsp;&nbsp;布</a> <b
+													id="isFont" class="isfont">140</b>
+												</em>
+											</div>
+										</div>
+									</form>
+								</dd>
+							</dl>
+							<div class="ui_wala_comment">
+								<dl class="ui_wala_original comment77354474">
+									<dt class="uipic">
+										<a class="pubpic" title="mamasang" target="_blank"
+											href="/home/sns/othersPersonIndex.xhtml?memberid=39785560"><img
+											width="50" height="50"
+											src="http://img6.gewara.com/cw50h50/img/default_head.png"></a> <span
+											class="ico_g ico_buyTicket">购票用户</span>
+									</dt>
+									<dd class="ui_view_solide">
+										<div class="page_wala">
+											<i class="l">◆<i>◆</i></i>
+											<div class="page_wala_talk clear">
+												<p>
+													<a target="_blank"
+														href="/home/sns/othersPersonIndex.xhtml?memberid=39785560">mamasang</a>：
+													(<span class="ui_grades ui_grade10" title="10.0分">10.0</span>)
+													<img src="http://img.gewara.cn/img/minFace/07.gif">场地设施不错，离我家很近，走两步就到。赞
+												</p>
+											</div>
+											<div class="page_replay page_replay_my clear">
+												<span class="left">6天前 来自网页版</span>
+												<div class="page_replay_opt clear">
+			
+													<a lang="f" title="转发" class="page_ico forwards"
+														href="javascript:void(0)" id="77354474">0</a> <a lang="r"
+														title="搭话" class="page_ico comment" href="javascript:void(0)"
+														id="77354474">0</a>
+												</div>
+											</div>
+											<div root="replay" class="replayNode clear none"></div>
+										</div>
+									</dd>
+								</dl>
+								<dl class="ui_wala_original comment77350545">
+									<dt class="uipic">
+										<a class="pubpic" title="Thinking" target="_blank"
+											href="/home/sns/othersPersonIndex.xhtml?memberid=30314526"><img
+											width="50" height="50"
+											src="http://img6.gewara.com/cw50h50/img/default_head.png"></a>
+									</dt>
+									<dd class="ui_view_solide">
+										<div class="page_wala">
+											<i class="l">◆<i>◆</i></i>
+											<div class="page_wala_talk clear">
+												<p>
+													<a target="_blank"
+														href="/home/sns/othersPersonIndex.xhtml?memberid=30314526">Thinking</a>：
+													(<span class="ui_grades ui_grade8" title="8.0分">8.0</span>)
+													一般般，设施比较陈旧，场地也不大，而且地方也偏，对不起9.0的评分。但是总体感觉还不错。
+												</p>
+											</div>
+											<div class="page_replay page_replay_my clear">
+												<span class="left">1周前 来自网页版</span>
+												<div class="page_replay_opt clear">
+			
+													<a lang="f" title="转发" class="page_ico forwards"
+														href="javascript:void(0)" id="77350545">0</a> <a lang="r"
+														title="搭话" class="page_ico comment" href="javascript:void(0)"
+														id="77350545">0</a>
+												</div>
+											</div>
+											<div root="replay" class="replayNode clear none"></div>
+										</div>
+									</dd>
+								</dl>
+							</div>
+						</div>
+					<div class="ui_warning" style="text-align: center; cursor: pointer;">加载更多哇啦数据！</div>
+				</div>
+			</div>
+        </div>
+	</div>
+	<div id="footer">
+		<div class="container">
+			<div class="links">
+				<a target="_blank" href="/">首页</a>
+				|
+				<a target="_blank" href="#">联系我们</a>
+				|
+				<a target="_blank" href="#">人才招聘</a>
+				|
+				<a target="_blank" href="#">商家入驻</a>
+				|
+				<a target="_blank" href="#">广告服务</a>				
+				|
+				<a target="_blank" href="#">友情链接</a>
+				|
+				<a target="_blank" href="#">销售联盟</a>
+			</div>
+			<div class="copyright">
+				Copyright &copy; <?php echo date('Y'); ?>&nbsp;&nbsp;一言就订&nbsp;&nbsp;版权所有
+			</div>
+			<div class="clr"></div>
+		</div>
+	</div><!-- footer -->
+
+</div><!-- page -->
+</body>
+</html>

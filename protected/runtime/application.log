@@ -1,0 +1,1578 @@
+2013/04/06 15:31:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:31:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:17 [error] [php] Missing argument 1 for Uuid::getUuid(), called in F:weborderWorldprotectedcontrollersIndexController.php on line 4 and defined (F:weborderWorldprotectedcomponentsUuid.php:22)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#1 F:weborderWorldframeworkyiilite.php(3309): IndexController->runAction()
+#2 F:weborderWorldframeworkyiilite.php(3299): IndexController->runActionWithFilters()
+#3 F:weborderWorldframeworkyiilite.php(1699): IndexController->run()
+#4 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#5 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#6 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/
+2013/04/06 15:33:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:33:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:34:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:34:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:35:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:35:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:35:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:35:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:35:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:36:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:37:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:38:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:38:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:38:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:38:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:39:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:39:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:39:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:40:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:41:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:42:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:43:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:43:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:48:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:48:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:48:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:48:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:50:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:51:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:51:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:51:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:51:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 15:53:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 16:05:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 16:05:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 16:05:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 16:06:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 16:06:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 16:06:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 16:06:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/06 16:06:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---

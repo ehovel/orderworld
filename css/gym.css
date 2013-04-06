@@ -1,0 +1,103 @@
+@CHARSET "UTF-8";
+
+em {
+    font-style: normal;
+}
+
+.bp {
+    border: 2px solid #CCCCCC;
+    padding: 5px;
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+
+.detail_head{
+	width:950px;
+	padding:10px;
+	line-height: 22px;
+	background: none repeat scroll 0 0 #ECECEC;
+    border: 2px solid #EDECE7;
+    border-bottom:none;
+}
+
+.detail_head_pic {
+    padding: 15px;
+    width: 250px;
+    float:left;
+}
+
+.slideshow img{
+	width:250px;
+}
+
+.detail_head_desc {
+    float: left;
+    padding: 9px 20px 15px 30px;
+    width: 465px; 
+}
+
+.detail_head_name {
+    padding-bottom: 10px;
+    position: relative;
+}
+
+.detail_head_name h1 {
+    font-family: '微软雅黑','宋体';
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 30px;
+}
+
+.detail_head em {
+    color: #666666;
+}
+
+.detail_head dd {
+    width: 380px;
+}
+
+.detail_head dt, .detail_head dd {
+    float: left;
+}
+
+.detail_head dt {
+    text-align: right;
+    width: 70px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.detail_head_ratings {
+    float: left;
+    padding: 9px 10px 15px;
+    width: 260px;
+}
+
+.bigBt {
+    height: 32px;
+    line-height: 32px;
+    overflow: hidden;
+    padding-left: 18px;
+}
+
+.bigBt span, .bigBt input {
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    height: 32px;
+    overflow: hidden;
+    padding-right: 18px;
+}
+.button span, .button input {
+    color: #FFFFFF;
+}
+.button, .button span, .button input {
+    background:  none repeat scroll 0 0 #5C982A;
+    border: 0 none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none !important;
+    width: auto;
+}

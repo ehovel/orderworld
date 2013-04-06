@@ -1,0 +1,93 @@
+.content{ position:relative; z-index:999;}
+.content .cent{ background:#fff;}
+.w{ margin:0 auto; width:1000px;}
+.tu_right{ float:right; width:220px; padding:38px 31px; height:452px; background:#ececec;}
+.tu_right .tou dd{ float:left; padding-right:10px;}
+.tu_right .tou dd p{ font-weight:bold; color:#3a678e; font-size:14px;}
+.tu_right .jian{ font-size:14px; font-weight:bold; line-height:24px; color:#486078;}
+.tu_right .jie{ text-indent:20px; line-height:22px;}
+.tu_right .name{ margin-top:10px; border-top:1px solid #ddd; padding:10px 0;}
+.tu_right .name p{ padding-left:35px; height:22px; background:url(../images/tu_bg.gif) no-repeat; line-height:22px;}
+.tu_right .name p.iphone{ background-position:0 bottom;}
+.tu_right .area{ width:218px; height:42px; border:1px solid #ddd; font-size:12px;}
+.tu_right .btn{ padding-top:10px;}
+.tu_right .btn input{ width:40px; height:22px; background:#67778e; color:#fff; line-height:22px; border:1px solid #364157;}
+.tu_right .ping h4.cha{ line-height:24px; color:#2d5e87;}
+.tu_right .ping .scoll{ height:130px; overflow-x:hidden; overflow-y:scroll}
+.tu_right .ping .scoll li{ padding-bottom:10px;}
+.tu_right .ping .scoll li h4{ font-size:14px; line-height:22px;}
+.tu_right .ping .scoll li h4 strong{ color:#2d5e87;}
+.tu_right .ping .scoll li{ color:#7c7c7c;}
+.picshow {WIDTH:697px; HEIGHT: 620px; float:left;}
+#picarea {
+	MARGIN: 0px auto; WIDTH: 570px; BACKGROUND: #fff; HEIGHT: 530px;
+}
+#bigpicarea {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 774px; HEIGHT: 482px; OVERFLOW: hidden;
+}
+.image {
+	TEXT-ALIGN: center;
+}
+.image IMG {
+	BORDER-BOTTOM: #ececec 1px solid; BORDER-LEFT: #ececec 1px solid; MARGIN: 0px auto; BORDER-TOP: #ececec 1px solid; BORDER-RIGHT: #ececec 1px solid;
+}
+#bigpicarea .word {
+	TEXT-ALIGN: center; HEIGHT: 50px; COLOR: #333;
+}
+#bigpicarea .word H3 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 48px; HEIGHT: 48px; COLOR: #333; FONT-SIZE: 14px;
+}
+#bigpicarea .ui-els-hide {
+	DISPLAY: none;
+}
+#thumbs {
+	LIST-STYLE-TYPE: none; MARGIN: 0px auto; WIDTH: 570px; HEIGHT: 110px; position:relative;
+}
+* HTML #thumbs {
+	HEIGHT: 100%
+}
+#thumbs LI {
+	MARGIN: 0px 8px; WIDTH: 92px; DISPLAY: inline; FLOAT: left; HEIGHT: 62px;
+}
+#thumbs UL {
+	MARGIN-TOP: 3px;
+}
+#thumbs LI.last_img {
+	MARGIN-RIGHT: 4px;
+}
+#thumbs .first {
+	MARGIN: 25px 0px 0px 0px; WIDTH: 9px; HEIGHT: 16px; CURSOR: pointer; float:left;
+}
+#thumbs .last {
+	MARGIN: 25px 0px 0px 0px; WIDTH: 9px; HEIGHT: 16px; CURSOR: pointer; float:right;
+}
+#thumbs LI A {
+	BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid; WIDTH: 90px; DISPLAY: block; FONT-SIZE: 0px; BORDER-TOP: #fff 2px solid; BORDER-RIGHT: #fff 2px solid;
+}
+#thumbs LI A:hover {
+	BORDER-BOTTOM: #000 2px solid; BORDER-LEFT: #000 2px solid; BORDER-TOP: #000 2px solid; BORDER-RIGHT: #000 2px solid;
+}
+#thumbs LI A.current {
+	BORDER-BOTTOM: #f8ae0f 2px solid; BORDER-LEFT: #f8ae0f 2px solid; BORDER-TOP: #f8ae0f 2px solid; BORDER-RIGHT: #f8ae0f 2px solid;
+}
+#thumbs LI.first IMG {
+	
+}
+#thumbs LI.last IMG {
+	
+}
+.bigbtnPrev {
+	Z-INDEX: 9999; POSITION: absolute; WIDTH: 35px; HEIGHT: 51px; TOP: 186px; CURSOR: pointer; LEFT: 30px; display:block; 
+}
+.bigbtnNext {
+	Z-INDEX: 9999; POSITION: absolute; WIDTH: 35px; HEIGHT: 51px; TOP: 186px; CURSOR: pointer; RIGHT: 30px; display:block; 
+}
+#big_play_prev {
+	BACKGROUND-IMAGE: url(../images/leftbig.png); WIDTH: 35px; DISPLAY: block; HEIGHT: 51px;
+}
+#big_play_next {
+	BACKGROUND-IMAGE: url(../images/rightbig.png); WIDTH: 35px; DISPLAY: block; HEIGHT: 51px; 
+}
+#smallpicarea {
+	MARGIN: 0px auto; WIDTH: 570px; BORDER-TOP: #ececec 1px solid; PADDING-TOP: 20px;
+}

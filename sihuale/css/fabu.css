@@ -1,0 +1,23 @@
+/* CSS fabu*/
+.content .fb_left{ width:690px; float:left; padding-left:20px;}
+.content .fb_right{ width:240px; float:right;}
+.content .h1{ font-size:24px; line-height:40px; color:#313131; font-weight:300; padding:10px 0;}
+.fb_left .h2{ font-size:14px; font-weight:bold; color:#313131;}
+.fb_left dl{ padding:10px 0;}
+.fb_left dl dt{ width:80px; float:left; text-align:right; height:22px; padding:5px 0;}
+.fb_left dl dd{ width:600px; float:right;}
+.fb_left dl p{ margin-bottom:10px;}
+.fb_left .dl2 input,.fb_left .dl4 input,.fb_left .dl8 input{ height:32px; width:341px; background:url(../images/fbinput.png) no-repeat; border:0;}
+
+.fb_left .dl3 span input{ width:98px; height:27px; border:1px solid #ddd; margin:0 5px;}
+.fb_left .dl3 .p{ line-height:29px;}
+.fb_left .dl4 .tu{ width:403px; height:117px; background:url(../images/tu.png) no-repeat;}
+.fb_left .dl5 button{ border:none; width:84px; height:29px; background:url(../images/shangchuan.png) no-repeat;}
+.fb_left .dl7 dd{ height:22px; line-height:22px; padding:5px 0;}
+
+.fb_left .dl9 .but1{ width:105px; height:29px;border:none; background:url(../images/baocun.png) no-repeat; margin-right:10px; display:inline-block; color:#fff;}
+.fb_left .dl9 .but2{ width:80px; height:29px;border:none; background:url(../images/quxiao.png) no-repeat; display:inline-block;}
+.fb_right h2{ font-size:14px; padding-bottom:30px;}
+.fb_right p{ line-height:25px;}
+.fb_right h2.pd{ padding-top:20px;}
+.fb_right .last{ padding-top:30px;}

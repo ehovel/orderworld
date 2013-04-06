@@ -1,0 +1,251 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>index</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+<link rel="shortcut icon" href="favicon.ico" />
+<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script src="js/all.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="page">
+	<div id="header">
+		<div class="contain">
+			<ul class="left">
+				<li style="background:none;"><a href="#"><img src="./image/logo3.jpg" height="55px"/></a></li>
+				<li><a href="/">首页</a></li>
+				<li><a href="#">推荐体育馆</a></li>
+				<li style="background:none;"><a href="javascript:addToFavorite()">收藏本站</a></li>
+			</ul>
+			<ul class="right" id="if_login">
+					<li>您好！欢迎来到一点就订！<a href="/index.php/site/login"><img src="./image/header_login.jpg"></a>&nbsp;&nbsp;<a href="/index.php/site/register"><img src="./image/header_register.jpg"></a></li>
+				<!--
+					<li>DPX&nbsp;&nbsp;&nbsp;<a href="">我的订单</a>&nbsp;&nbsp;&nbsp;<a href="/index.php/site/loginout">[退出]</a></li>
+					-->
+				<?php }?>
+			</ul>
+			<span class="clr"></span>
+		</div>
+	</div><!-- header -->
+	<div class="container new_detail_head">
+		<div class="row">
+			<div class="span2"><img class="bp" src="./image/test/yuqiu.jpg" /></div>
+			<div class="span6">
+				<div class="detail_head_desc">
+					<div class="detail_head_name">
+						<span class="right">
+							<span class="freeTag0 f_bt" id="nCollect" onclick="collection(84001993, 'sport', 'collection')"></span>
+						</span>
+						<h1>激荡羽球-银都馆</h1>
+					</div>
+					<dl class="clearfix">
+						<dt>详细地址：</dt>
+						<dd>
+							<a target="_blank" title="闵行区" href="/sport/sportList.xhtml?countycode=310112" class="cSport">闵行区</a>				申南一路80号（中春路延银都路往西500米，近银都路中春路）
+							[<a class="blue" href="/common/baiduMap.xhtml?id=84001993&amp;tag=sport" target="_black">地图</a>]
+							<a class="freeTag0 i_note" onclick="showTemplate();" href="javascript:void(0)" title="免费发送信息到手机"></a>
+						</dd>
+					</dl>
+					<dl>
+						<dt>联系电话：</dt>
+						<dd>13004136591</dd>
+						<dt>营业时间：</dt>
+						<dd>09:00-23:00</dd>
+						<dt>运动项目：</dt>
+						<dd>
+							羽毛球&nbsp;
+							乒乓球&nbsp;
+						</dd>
+					</dl>
+					<p class="mt10 clear">
+						<span class="right">
+							<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=" type="text/javascript" charset="utf-8"></script>
+							<wb:share-button count="n" type="button" ></wb:share-button>
+						</span>
+						<label class="sport_btn"><a class="btn btn-info" href="/sport/84001993/pricetable">立即预订</a></label>
+					</p>
+				</div>
+			
+			</div>
+			<div class="span4">
+				<div class="detail_head_ratings">
+					<dl class="clear">
+						<!-- <dt>评分：</dt> -->
+						<dd>
+							<div class="ratingsSide clearfix">
+								<!-- 传评分数gmark -->
+								<ul class="ui_big_ratings"><!-- 大的评分 -->
+													<li class="half"></li>
+													<li class="on"></li>
+													<li class="half"></li>
+													<li class="on"></li>
+													<li class="half"></li>
+													<li class="on"></li>
+													<li class="half"></li>
+													<li class="on"></li>
+													<li class="half"></li>
+													<li class="no"></li>
+								</ul>
+								<span><sub id="mark_integer">9</sub><sup id="mark_decimal">.0</sup></span>
+							</div>
+							<div class="ratingsGo">
+								
+								<div class="mt10">
+									<a href="javascript:void(0);" class="button minBt whiteBt btn btn-small" onclick="showMovieMark();"><span><em>我要评分</em></span></a>
+									<!--<span class="ml10 scoretips">详情</span>-->
+								</div>
+								<div class="gray mt10">来自<span class="brown fs14"><strong>13</strong></span>位用户推荐</div>
+							</div>
+							<div class="ratingsCount">
+								<span><b>123882</b>关注</span>|
+								<span><b>72</b>点评</span>
+							</div>
+						</dd>
+					</dl>
+				</div>
+			
+			
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<ul class="nav nav-tabs">
+			<li><a href="index.html">首页</a></li>
+			<li class="select"><a href="price.html">价格信息</a></li>
+			<li><a href="activitylist.html">活动<span>(7)</span></a></li>
+			<li><a href="comment.html">评论<span>(72)</span></a></li>
+			<li class="active"><a href="picturelist.html">场馆图片<span>(16)</span></a></li>
+			<li><a href="newslist.html">资讯<span>(1)</span></a></li>
+		</ul>
+        <!-- 贼里是图片列表 -->
+		<script src="js/jquery.masonry.min.js"></script>  
+		<script>  
+		  $(function(){  
+		    var $container = $('#main');  
+		    $container.imagesLoaded( function(){  
+		      $container.masonry({  
+		        itemSelector : '.item',
+		      });  
+		    });  
+		  });  
+		</script>
+        <div class="row">
+         	<div id="main" class="span12">
+        	<div class="item">  
+		      <a href="http://www.mn606.com/">  
+		        <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820573960309.jpg"   /></a>  
+		      </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/17/200_200/2012071701021504380.jpg"   /></a>  
+		    </div>  
+		      <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/11/200_200/2012071100572176412.jpg"  /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820231163974.jpg"   /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/17/200_200/2012071701004194456.jpg"   /></a>  
+		    </div>  
+		     
+		     <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820190205402.jpg"  /></a>  
+		    </div>  
+		     <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/11/200_200/2012071100572176412.jpg"  /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		        <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820573960309.jpg"   /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820501119382.jpg"   /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/17/200_200/2012071701021504380.jpg"   /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820231163974.jpg"   /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/17/200_200/2012071701004194456.jpg"   /></a>  
+		    </div>  
+		    <div class="item">  
+		       <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820501119382.jpg"   /></a>  
+		    </div>  
+		     <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820190205402.jpg"  /></a>  
+		    </div>  
+		     <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/11/200_200/2012071100572176412.jpg"  /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		        <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820573960309.jpg"   /></a>  
+		      </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/17/200_200/2012071701021504380.jpg"   /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820231163974.jpg"   /></a>  
+		    </div>  
+		    <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/17/200_200/2012071701004194456.jpg"   /></a>  
+		    </div>  
+		    <div class="item">  
+		       <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820501119382.jpg"   /></a>  
+		    </div>  
+		     <div class="item">  
+		      <a href="http://www.mn606.com/">  
+		      <img src="http://image.mn606.com/images/2012/07/18/200_200/2012071820190205402.jpg"  /></a>  
+		    </div>
+		    </div>
+        </div>
+	</div>
+	<div id="footer">
+		<div class="container">
+			<div class="links">
+				<a target="_blank" href="/">首页</a>
+				|
+				<a target="_blank" href="#">联系我们</a>
+				|
+				<a target="_blank" href="#">人才招聘</a>
+				|
+				<a target="_blank" href="#">商家入驻</a>
+				|
+				<a target="_blank" href="#">广告服务</a>				
+				|
+				<a target="_blank" href="#">友情链接</a>
+				|
+				<a target="_blank" href="#">销售联盟</a>
+			</div>
+			<div class="copyright">
+				Copyright &copy; <?php echo date('Y'); ?>&nbsp;&nbsp;一言就订&nbsp;&nbsp;版权所有
+			</div>
+			<div class="clr"></div>
+		</div>
+	</div><!-- footer -->
+
+</div><!-- page -->
+</body>
+</html>

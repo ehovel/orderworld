@@ -1,0 +1,168 @@
+#regist .mt {
+    border-bottom: 2px solid #EDECE7;
+    height: 49px;
+    margin: 20px;
+}
+/*
+#regist .mt h2 {
+    float: left;
+    height: 33px;
+    line-height: 33px;
+    padding-left: 15px;
+}
+
+#regist .mt b {
+    float: right;
+    height: 33px;
+    width: 10px;
+}
+
+#regist .mt span {
+    float: right;
+    height: 33px;
+    line-height: 33px;
+    text-align: right;
+}
+*/
+
+.ftx13, .flk13 a:link, .flk13 a:visited, a.flk13:link, a.flk13:visited {
+    color: #005AA0;
+}
+
+#regist .mc {
+    margin-bottom: 10px;
+    padding: 15px 20px 20px;
+}
+
+#regist .item {
+    height: 50px;
+    line-height: 26px;
+    padding-top: 5px;
+}
+
+#regist .label {
+    font-size: 14px;
+    text-align: right;
+    width: 150px;
+}
+
+#regist .label b {
+	font-size: 14px;
+    font-weight: normal;
+    margin-right: 5px;
+    color: #FF0000;
+}
+
+#regist .text {
+    border: 1px solid #BBBBBB;
+    font-size: 14px;
+    height: 16px;
+    padding: 4px 3px;
+    width: 240px;
+}
+
+#regist .text-1 {
+    width: 100px;
+}
+
+#regist .img img {
+    height: 26px;
+    margin: 0 5px;
+    cursor: pointer;
+    display: block;
+    height: 26px;
+    width: 100px;
+}
+
+#regist .btn-regist {
+    background: #5C982A;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    border: medium none;
+    height: 30px;
+    width: 169px;
+}
+
+#protocol-con {
+    border: 1px solid #CCCCCC;
+    color: #666666;
+    height: 80px;
+    margin: 0 auto;
+    overflow-y: scroll;
+    padding: 8px;
+    width: 450px;
+}
+
+#regist .blank {
+    height: 16px;
+    margin: 2px 5px 0;
+    width: 16px;
+}
+
+#regist .focus {
+    color: #999999;
+    line-height: 22px;
+}
+
+#regist .highlight1{
+	border:1px solid #5A841E;
+	outline:2px solid #83D60D;
+}
+
+#regist .highlight2 {
+    border: 1px solid #FF0000;
+    color: #FF0000;
+    outline: 1px solid #FFC1C1;
+}
+
+#regist .succeed {
+    background: url("../image/check.png") no-repeat scroll transparent;
+}
+
+#regist .error {
+    color: red;
+    line-height: 22px;
+}
+
+#regist .form {
+    float: left;
+    overflow: hidden;
+    width: 590px;
+}
+
+#guide {
+    border-left: 1px dashed #E7E7E7;
+    float: right;
+    height: 410px;
+    padding: 0 0 20px 40px;
+    width: 300px;
+}
+
+#guide .content {
+    color: #666666;
+    padding: 10px 0 0;
+}
+
+
+#guide .btn-personal {
+    background: #5C982A;
+    font-size: 14px;
+    font-weight: bold;
+    height: 35px;
+    line-height: 35px;
+    margin: 35px auto 20px;
+    width: 137px;
+    color:white;
+}
+
+a:link, a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+
+.btn-link {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}

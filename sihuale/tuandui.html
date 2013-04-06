@@ -1,0 +1,158 @@
+{include file='lib/top.html'}
+<STYLE type=text/css>
+.STYLE2 {
+	COLOR: #ff9601;
+	FONT-SIZE: 12px;
+	FONT-WEIGHT: bold
+}
+.STYLE3 {
+	COLOR: #b98f11;
+	FONT-SIZE: 12px
+}
+</STYLE>
+<META name=GENERATOR content="MSHTML 8.00.7600.17006">
+</HEAD>
+{include file='lib/head.html'}
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=0 align=center>
+    <TBODY>
+  
+  <TR>
+    <TD 
+          style="PADDING-BOTTOM: 56px; BACKGROUND: url(images/sub_left_bg01.gif) repeat-y left 50%" 
+          vAlign=top width=247 align=left><TABLE border=0 cellSpacing=0 cellPadding=0 width=0>
+          <TBODY>
+        
+        <TR>
+          <TD><TABLE border=0 cellSpacing=0 cellPadding=0 width=0>
+              <TBODY>
+                <TR>
+                  <TD><IMG src="images/sub4010_left_title2.gif" 
+                        width=230 height=71></TD>
+                </TR>
+                <TR>
+                  <TD style="PADDING-LEFT: 23px" ><TABLE border=0 cellSpacing=0 cellPadding=0 width=0  height=266 
+                            background=images/sub_left_menu_bottom_bg.gif 
+                            width=207>
+              <TBODY>
+              
+              {foreach item = row from = $tuan}
+              <TR>
+                <TD width="207px" height="30" align="center" style="font-size:16px;"><a href="tuandui.php?id={$row.cat_id}" style="color:#e9bc44; font-weight:bold;">{$row.cat_name}</a></TD>
+              </TR>
+              {/foreach}
+			  <tr><td width="207px" height="30"></td></tr>
+                                  <tr><td width="207px" height="30"></td></tr>
+                </TBODY>
+            </TABLE></TD>
+        </TR>
+          </TBODY>
+        
+      </TABLE></TD>
+  </TR>
+  <TR>
+    <TD style="PADDING-LEFT: 23px; PADDING-TOP: 15px"><TABLE border=0 cellSpacing=0 cellPadding=0 width=0>
+        <TBODY>
+          <TR>
+            <TD style="PADDING-LEFT: 26px; PADDING-TOP: 18px" 
+                      height=188 vAlign=top 
+                      background=images/sub1010_left_bottom_img_bg.gif 
+                      width=198 align=left><TABLE border=0 cellSpacing=0 cellPadding=0 width=0>
+                <TBODY>
+                  <TR>
+                    <TD><A 
+                              href="contact.php"><IMG 
+                              border=0 
+                              src="images/sub1010_left_bottom_img01.gif" 
+                              width=154 height=44></A></TD>
+                  </TR>
+                  <TR>
+                    <TD>&nbsp;</TD>
+                  </TR>
+                  <TR>
+                    <TD><A 
+                              href="message.php"><IMG 
+                              border=0 
+                              src="images/sub1010_left_bottom_img02.gif" 
+                              width=154 height=44></A></TD>
+                  </TR>
+                  <TR>
+                    <TD>&nbsp;</TD>
+                  </TR>
+                  <TR>
+                    <TD><A 
+                              href="message.php"><IMG 
+                              border=0 
+                              src="images/sub1010_left_bottom_img03.gif" 
+                              width=154 
+                    height=44></A></TD>
+                  </TR>
+                </TBODY>
+              </TABLE></TD>
+          </TR>
+        </TBODY>
+      </TABLE></TD>
+  </TR>
+    </TBODY>
+  
+</TABLE>
+</TD>
+<TD 
+          style="BACKGROUND: url(images/sub_right_bg01.gif) repeat-y right 50%" 
+          vAlign=top width=849 align=left><TABLE border=0 cellSpacing=0 cellPadding=0 width=0>
+    <TBODY>
+      <TR>
+        <TD style="PADDING-LEFT: 140px; PADDING-TOP: 152px" height=45 
+                vAlign=top background=images/sub_con_top_bg.gif width=709 
+                align=left><TABLE border=0 cellSpacing=0 cellPadding=0 width=0>
+            <TBODY>
+              <TR>
+                <TD><IMG src="images/sub4010_con_title03.gif" 
+                        width=125 height=33></TD>
+                <TD class=sub_con_titlefont vAlign=bottom width=429 
+                      align=right><IMG src="images/sub_con_top_icon.gif"> HOME &gt; 企业团队 &gt;</TD>
+              </TR>
+            </TBODY>
+          </TABLE></TD>
+      </TR>
+      <TR>
+        <TD style="PADDING-BOTTOM: 25px"><TABLE 
+                  style="BACKGROUND: url(images/sub_con_bg01.gif) repeat-y center 50%" 
+                  border=0 cellSpacing=0 cellPadding=0 width=0>
+            <TBODY>
+              <TR>
+                <TD  style="PADDING-BOTTOM: 50px; BACKGROUND: url(images/sub_con_bg02.gif) no-repeat"  vAlign=top width=821 align=middle><TABLE border=0 cellSpacing=0 cellPadding=0 width=0>
+                    <TBODY>
+                      <TR>
+                        <TD style="PADDING-BOTTOM: 20px; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; PADDING-TOP: 10px"  class=sub_con_font height=482 vAlign=top width=579 align=left>
+      <TABLE style="MARGIN: 7px 0px 0px -15px" border=0  cellSpacing=0 cellPadding=0 width=579>
+                              <TR>
+                                <TD>
+                                <div style="width:100%">
+                    <ul class="clearfix">
+                      {foreach item = row from = $productlist}
+                      <li style=" vertical-align:middle;float:left; width:130px; padding-right:13px; overflow:hidden; height:180px;" >
+                      <div style="BORDER-BOTTOM: #935a1d 2px solid; BORDER-LEFT: #935a1d 2px solid; BORDER-TOP: #935a1d 2px solid; BORDER-RIGHT: #935a1d 2px solid;"><A  style="BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px"  href="tuanduidetail.php?id={$row.article_id}"><IMG  border=0 src="{$row.photothumb}" width=126 height=137></A>
+                      </div>
+                      <p style="height:22px; width:130px; margin:0;"> <IMG src="images/sub3010_icon01.gif" width=19  height=22><SPAN class=sub3010_font style="width:88px; height:22px; overflow:hidden; text-align:center; display:inline-block; line-height:22px; padding:0;">{$row.article_name}</SPAN><IMG  src="images/sub3010_icon01.gif" width=19  height=22></p>
+                        </li>
+                      {/foreach}
+                    </ul>
+                  </div>
+                  <div>{$pages}</div>
+                                </TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE></TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE></TD>
+              </TR>
+            </TBODY>
+          </TABLE></TD>
+      </TR>
+    </TBODY>
+  </TABLE></TD>
+</TR>
+</TBODY>
+</TABLE>
+{include file='lib/foot.html'} 

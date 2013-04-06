@@ -1,0 +1,158 @@
+#entry .mt {
+    border-bottom: 2px solid #EDECE7;
+    height: 49px;
+    margin: 20px;
+}
+/*
+#entry .mt h2 {
+    float: left;
+    height: 33px;
+    line-height: 33px;
+    padding-left: 15px;
+}
+*/
+
+#entry .mc {
+    margin-bottom: 10px;
+    padding: 15px 20px 20px;
+}
+
+#entry .item {
+    height: 50px;
+    line-height: 26px;
+    padding-top: 5px;
+}
+
+#entry .label {
+    font-size: 14px;
+    text-align: right;
+    width: 100px;
+}
+
+#entry .text {
+    border: 1px solid #BBBBBB;
+    font-size: 14px;
+    height: 16px;
+    padding: 4px 3px;
+    width: 240px;
+}
+
+#entry .form {
+    float: left;
+    overflow: hidden;
+    width: 540px;
+}
+
+#entry .blank {
+    height: 16px;
+    margin: 2px 5px 0;
+    width: 16px;
+}
+
+#entry .item a:link, #entry .item a:visited {
+    text-decoration: underline;
+}
+
+#entry .img img {
+    height: 26px;
+    margin: 0 5px;
+    cursor: pointer;
+    display: block;
+    height: 26px;
+    width: 100px;
+}
+
+#entry .text-1 {
+    width: 100px;
+}
+
+#entry #autoentry {
+    height: 50px;
+}
+
+#entry .safety {
+    position: relative;
+}
+
+#entry .mar {
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+#entry .checkbox {
+    margin-top: 7px;
+}
+
+#entry .btn-entry {
+    background: #5C982A;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+}
+
+#guide {
+    border-left: 1px dashed #E7E7E7;
+    float: right;
+    height: 290px;
+    padding: 0 0 20px 40px;
+    width: 350px;
+}
+
+#guide .content {
+    color: #666666;
+    padding: 10px 0 0;
+}
+
+
+#guide .btn-personal {
+    background: #5C982A;
+    font-size: 14px;
+    font-weight: bold;
+    height: 35px;
+    line-height: 35px;
+    margin: 35px auto 20px;
+    width: 137px;
+    color:white;
+}
+
+a:link, a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+
+.btn-link {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+
+#entry .focus {
+    color: #999999;
+    line-height: 22px;
+}
+
+#entry .highlight1{
+	border:1px solid #5A841E;
+	outline:2px solid #83D60D;
+}
+
+#entry .highlight2 {
+    border: 1px solid #FF0000;
+    color: #FF0000;
+    outline: 1px solid #FFC1C1;
+}
+
+#entry .succeed {
+    background: url("../image/check.png") no-repeat scroll transparent;
+}
+
+#entry .error {
+    color: red;
+    line-height: 22px;
+}
+#loginname{
+	color:#BBBBBB;
+}

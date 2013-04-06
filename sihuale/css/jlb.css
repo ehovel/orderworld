@@ -1,0 +1,76 @@
+/* CSS 俱乐部 */
+.content .ju_left{ width:740px; overflow:hidden; float:left;}
+.content .ju_right{ width:240px; overflow:hidden; float:right;}
+.content .ju_left .jl_left{ width:162px; float:left; overflow:hidden;}
+.content .ju_left .jl_right{ width:560px; float:right; overflow:hidden;}
+.ju_left .jl_left .tou,.ju_left .jl_left .jr{ text-align:center; padding:10px 0;}
+.ju_left .jl_left .title{ line-height:30px; color:#3aa9e0; font-size:18px; font-weight:bold; text-align:center;}
+.ju_left .jl_left .cy{ height:28px; text-align:center; padding-top:10px;}
+.ju_left .jl_left .cy span{ display:inline-block; color:#666666; padding:2px 10px; background:#dcdcdc; font-size:14px; font-weight:bold;}
+.ju_left .jl_left .cy span b{ font-style:normal; color:#21abea;}
+.ju_left .jl_left .jj{ padding-top:20px; line-height:22px; color:#707070;}
+.ju_left .jl_left .t1{ padding:10px 0;}
+/*相册*/
+.jl_right .xc .title{ font-size:14px; color:#666; font-weight:bold; height:26px; line-height:26px; margin-bottom:20px; border-bottom:1px dashed #ddd;}
+.xc #imgPlay {MARGIN: 0 auto; WIDTH: 560px; ZOOM: 1; POSITION: relative; HEIGHT:165px;}
+.xc #imgPlay .ab{OVERFLOW: hidden; WIDTH: 560px; ZOOM: 1; POSITION: relative; HEIGHT:165px;}
+.xc #imgPlay .imgs li {FLOAT: left; POSITION: relative; width:560px; overflow:hidden;}
+.xc #imgPlay .imgs li dl dd{FLOAT: left; width:134px; padding:0 3px;}
+.xc #imgPlay .imgs li dl dd .title{ padding-top:10px; height:50px; font-size:14px; line-height:25px; width:134px; overflow:hidden;}
+.xc #imgPlay .btn {RIGHT: 12px; OVERFLOW: hidden; WIDTH: 112px; BOTTOM: 12px; TEXT-INDENT: -9999px; POSITION: absolute; HEIGHT: 29px;}
+.xc #imgPlay .btn A {BACKGROUND: url(../images/bg.png) no-repeat;BACKGROUND-POSITION: 0px 0px; DISPLAY: block; WIDTH: 112px; HEIGHT: 29px;}
+.xc #imgPlay .btn A:hover {BACKGROUND: url(../images/bg.png) no-repeat;BACKGROUND-POSITION: 0px -30px;}
+.xc #imgPlay .prev {BACKGROUND: none; LEFT: 0; WIDTH: 66px; CURSOR: pointer; TEXT-INDENT: -9999px; POSITION: absolute; TOP: 100px; HEIGHT: 66px;}
+.xc #imgPlay .next {BACKGROUND: none; right: 0px; WIDTH: 66px; CURSOR: pointer; TEXT-INDENT: -9999px; POSITION: absolute; TOP: 100px; HEIGHT: 66px}
+.xc #imgPlay .num {DISPLAY: inline; LEFT: 400px; POSITION: absolute; TOP: 400px; HEIGHT: 19px}
+.xc #imgPlay .num SPAN {DISPLAY: inline-block; BACKGROUND: url(../images/imgPlayer.png) no-repeat -19px -83px; MARGIN: 0px 2px; OVERFLOW: hidden; WIDTH: 14px; CURSOR: pointer; LINE-HEIGHT: 0; HEIGHT: 13px}
+.xc #imgPlay .num SPAN.on {BACKGROUND-POSITION: 1px -83px}
+.xc #imgPlay .num .lc {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/lc.png) no-repeat; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 13px; PADDING-TOP: 3px; HEIGHT: 16px}
+.xc #imgPlay .num .mc {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/lc.png) no-repeat; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 13px; PADDING-TOP: 3px; HEIGHT: 16px}
+.xc #imgPlay .num .rc {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/lc.png) no-repeat; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 13px; PADDING-TOP: 3px; HEIGHT: 16px}
+.xc #imgPlay .num .mc {BACKGROUND: url(../images/mc.png) repeat-x}
+.xc #imgPlay .num .rc {BACKGROUND: url(../images/rc.png) no-repeat}
+.xc #imgPlay #numInner {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 3px; POSITION: absolute; TOP: 315px; TEXT-ALIGN: center}
+.jl_right .ht{ height:26px; line-height:36px; font-size:14px; font-weight:bold; padding:10px 0; color:#5a5a5a; border-bottom:1px solid #ddd;}
+.jl_right .ht a{ float:right;}
+.jl_right .title{ padding:5px 10px; color:#a5a5a5; border-bottom:1px solid #ddd;}
+.jl_right .title span{ float:right;}
+.jl_right .dl{ padding:10px 0;}
+.jl_right .dl .dd{ padding-top:10px; border-bottom:1px solid #ddd;}
+.jl_right .dl .dd h4{ padding:5px 5px 5px 20px; height:14px; color:#3694bb; font-weight:bold;}
+.jl_right .dl .dd h4 span{ color:#9fce4c;}
+.jl_right .dl .dd h4.ding{ background:url(../images/ding.jpg) no-repeat 0 center;}
+.jl_right .dl .dd p{ padding-left:20px; color:#d5d5d5; height:20px;}
+.jl_right .dl .dd p b{ color:#a4a4a4;}
+.jl_right .dl .dd p span b{margin-right:10px; display:inline-block; padding-right:16px;}
+.jl_right .dl .dd p span b.qi{ background:url(../images/qi.jpg) no-repeat right center;}
+.jl_right .dl .dd span{ float:right;}
+.jl_right .page{ padding-bottom:10px;}
+.jl_right .page ul{ float:right;}
+.jl_right .page ul li{ float:left; border:1px solid #ddd; margin-left:5px;}
+.jl_right .page ul li a{ float:left; padding:0 5px; }
+.jl_right .page ul li.xuan a{ color:#3694bb;}
+.jl_right .page ul li.last{ border:none;}
+.jl_right .qie{ padding:20px 0;}
+.jl_right .qie .ul{ height:31px; background:url(../images/ulb.gif) repeat-x 0 bottom;}
+.jl_right .qie .ul li{ float:left; margin-right:10px; width:87px; height:29px; font-size:14px; font-weight:bold; color:#666666; background:url(../images/ul2.gif) no-repeat; text-align:center; line-height:29px;} 
+.jl_right .qie .ul li.xuan{ background:url(../images/ul1.gif) no-repeat; color:#fff;}
+.jl_right .qie .ul_n{ padding:10px;}
+/*right*/
+.ju_right .ren{ height:43px; padding-left:50px; background:url(../images/ren.jpg) no-repeat;}
+.ju_right .ren .g{ font-size:14px; line-height:40px; border-bottom:1px solid #ddd; color:#666666; font-weight:bold;}
+.ju_right .gong{ padding:15px 0;}
+.ju_right .gong p{ padding-left:20px; line-height:24px; background:url(../images/laba.jpg) no-repeat 0 center; font-weight:bold;}
+.ju_right .gong p a{ color:#bcbcbc;}
+.ju_right .title{ padding-top:10px; border-bottom:1px solid #dcdcdc; line-height:24px; font-weight:bold; color:#4b4b4b; height:24px;}
+.ju_right .title .t_r{ float:right; color:#1c7eaf;}
+.ju_right .gl_t{ padding-top:20px;}
+.ju_right .gl_t p{ float:left; height:80px; width:50px; text-align:center; font-size:11px;}
+.ju_right .gl_t p a{ padding-top:5px; color:#1d86b4; font-size:11px; display:block;}
+.ju_right .gl_t p span{ display:inline-block;}
+.ju_right .tt a{ float:left; margin-left:5px; margin-top:5px;}
+.ju_right .li{ padding:10px 0; color:#999999;}
+.ju_right .li .bm img{ float:left; padding-right:10px;}
+.ju_right .li .bm .mz{ font-weight:bold; color:#3499f7; line-height:20px;}
+.ju_right .li .duo{ line-height:22px;}
+.ju_right .li .duo span{ color:#3499f7;}

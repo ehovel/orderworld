@@ -1,0 +1,1269 @@
+@CHARSET "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+	color: #333333;
+    font-family: Arial,"微软雅黑",Lucida,Verdana,Helvetica,sans-serif;
+    font-size: 12px;
+   /** background:black;
+    filter: Alpha(Opacity=50); /* for IE */
+   /** background-color: rgba(0, 0, 0, 0.5); /*for FF*/  
+    
+}
+
+ul{
+	list-style: none outside none;
+}
+li {
+    line-height: 20px;
+}
+img{
+	border:0px;
+}
+
+h2{
+    font-size: 14px;
+}
+a:link, a:visited {
+    text-decoration: none;
+}
+
+#header li a:hover, #header li a:active {
+    color: white;
+    text-decoration: none;
+}
+.clr {
+    clear: both;
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    overflow: hidden;
+}
+
+#page{
+	width:100%;
+	background: none repeat scroll 0 0 #E3F5DE;
+}
+
+#header{
+	width:100%;
+	line-height:50px;
+	background: url("../image/header2.jpg") repeat-x scroll 0 0 transparent;
+    border-bottom: 2px solid #DADADA;
+    margin-bottom: 15px;
+}
+#header ul {
+	margin:0;
+}
+#header li{
+	float:left;
+	padding:0px 10px;
+	/*background:url("../image/string.jpg") no-repeat scroll right 7px transparent;*/
+}
+
+#header li,#header li a,#header li span{
+	font-size:14px;
+    color:#E7E7E7;
+    height:58px;
+    line-height:58px;
+}
+
+#header li img{
+	height:39px;
+	vertical-align: middle;
+}
+
+.contain{
+	width:1000px;
+	margin:0px auto;
+	clear:both;
+}
+/*begin of 展示主体部分*/
+/*头部小图片*/
+.bp {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #CCCCCC;
+    padding: 2px;
+}
+/*头部介绍*/
+.container{
+	background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+    padding: 20px;
+}
+.container h1 {
+	font-size:28px;
+	font-weight:normal;
+	padding:0;
+	margin:0;
+}
+.detail_head_desc dt,.detail_head_desc dd {
+	font-weight:normal;
+    float: left;
+}
+.detail_head_desc dt {
+	color: #666666;
+    text-align: right;
+    width: 70px;
+}
+
+.detail_head_desc dl {
+    overflow: hidden;
+	margin:0;
+}
+.detail_head_desc dd {
+    width: 380px;
+}
+.cSport {
+    color: #3399CC !important;
+}
+
+.blue {
+    color: #3366CC !important;
+}
+
+/*背景图标*/
+.uiTag, .noAriimg, .hottopNo, .say_submit, .wlSearchLogo, .wlSearchBt, .c .button img, .say_face .waTag img, .button, .button input, .button span, .sureBt, .tab_menu li a, .tab_menu li a span, .minTab .navs, .minTab .navs em, .minTab .select, .minTab .select span, .menus, .menus a.select, .inIco, .search_Bt, .dates, .moduleLogo .area span, .searchToolBt, .freeTag, .navigation a.select, .navigation a:hover, .ratings li, .ui_big_ratings li, .initRating span, .attentionBt, .blueBt, .videoMove, .evolve, .searchBt, .Wb, .even_phone, .even_myAccount, .botton_count_on, .botton_count_off, .film_review_text .uiPt {
+    background: url("../image/main.png") no-repeat scroll 0 0 transparent;
+    border: 0 none;
+    display: inline-block;
+    text-decoration: none !important;
+    vertical-align: middle;
+    width: auto;
+}
+.sport_steps, .evenBt, .sMatch .yz, .new_sMatch .yz, .sMatch .vs, .sMatch .yy, .hotMenu li, .hotMenu li span, .hotMenu li span em, .wmore, .freeTag0, .ot a, .ing, .end, .open, .close, .viewDesc, .ac_right, .ac_left, .sicon, span.vs {
+    background: url("../image/sport_bg_main_24.png") no-repeat scroll 0 0 transparent;
+    display: inline-block;
+    vertical-align: middle;
+}
+.sp-titBg, .sp-picBg, .sp_bt, .sp-go, .sp-share, .sp-gf, .sp-yh, .spPic .ing, .spPic .eng, .discount, .sicon, .sicon em, .sp_all, .sp_all1, .sp_choose, .sp_choose1, .sp_choose em, .sp_choose1 em, .list_pic em, .vip, .icon1, .icon2, .open, .close, .onlineAsk, .help_logo, .time_item li, .time_item .select, .icon_gz, .hasSite, .hashover, .sellSite, .pk_select, .sicon, .tBg h2, .walBt, .wmore, .viewDesc, .score, .ui_s_sellgoods_left, .ui_chooseTimes .date em, .ui_chooseTimes .date .p, ui_chooseTimes li.select .date .p, .ui_chooseTimes .order .minus, .ui_chooseTimes .order .add, .ui_newhit .imain .content .ileft .minus, .ui_newhit .imain .content .ileft .add, .ui_s_sellgoods_right, .bm_walaT .right_d, .ui_newhit .imain .date p, .ui_newhit .imain .date .imsg, .full {
+    background: url("../image/sportBg.png") no-repeat scroll 0 0 transparent;
+    display: inline-block;
+    vertical-align: middle;
+}
+/*评分部分*/
+.ratingsSide {
+    padding-right: 36px;
+    position: relative;
+}
+.ratingsSide ul{
+   margin:0;
+}
+.ui_big_ratings {
+    float: left;
+    height: 24px;
+    line-height: 24px;
+    overflow: hidden;
+    width: 130px;
+}
+.ui_big_ratings li {
+    background-position: -24px -148px;
+    cursor: default;
+    float: left;
+    height: 24px;
+    overflow: hidden;
+    width: 13px;
+}
+.ratingsSide li {
+    cursor: default;
+}
+.ui_big_ratings li.half {
+    background-position: 1px -148px;
+}
+.ui_big_ratings li.on {
+    background-position: -12px -148px;
+}
+.ui_big_ratings li.no {
+    background-position: -38px -148px;
+}
+.ratingsSide span {
+    left: 130px;
+    position: absolute;
+    top: -4px;
+}
+.ratingsSide sup {
+    font-size: 18px;
+	top:auto;
+}
+.ratingsSide sub {
+    font-size: 30px;
+}
+sup {
+    color: #FF6600;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 20px;
+    margin-left: 2px;
+    vertical-align: top;
+}
+sub {
+    color: #FF6600;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 24px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.ratingsGo {
+    line-height: 28px;
+    margin-top: 5px;
+    padding-bottom: 20px;
+}
+.ratingsSide {
+    padding-right: 36px;
+    position: relative;
+}
+.mt10 {
+    margin-top: 10px;
+}
+.center {
+    text-align: center;
+}
+.whiteBt {
+    background-position: 0 -1344px;
+}
+.whiteBt span, .whiteBt input {
+    background-position: right -1367px;
+}
+.whiteBt span, .whiteBt input {
+    color: #333333;
+}
+
+.new_detail_head .ratingsGo .whiteBt em {
+    background: url("../image/admin_tool.png") no-repeat scroll left -204px transparent;
+    color: #333333;
+    padding: 0 0 0 17px;
+}
+
+.brown strong{
+    color: #329ACD;
+}
+.ratingsCount {
+    border-top: 1px dashed #CCCCCC;
+    color: #666666;
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 10px;
+}
+
+
+/*价格及简介部分*/
+.detail_ticket_chooseBg{
+	background-color:#e9f7fa;
+	padding:10px;
+}
+.detail_ticket_chooseBg span{
+	display:inline-block;
+	width:24.5%;
+	*width:24.3%
+}
+.chooseOpi{
+	height:400px;
+	overflow:hidden;
+	position:relative
+}
+.chooseOpi_caption{
+	height:32px;
+	line-height:32px;
+	width:100%;
+	overflow:hidden;
+	position:relative;
+	color:#666
+}
+.chooseOpi_caption b,.chooseOpi_caption h2{
+	font-size:14px;
+	font-weight:bold;
+	margin-right:5px
+}
+.chooseOpi_caption .viewDesc{
+	position:absolute;
+	top:8px;
+	right:0;
+	line-height:20px;
+	color:#333;
+	background-color:#fff;
+	padding-left:15px
+}
+.chooseOpi_caption h2 a{
+	color:#c30
+}
+.chooseOpi_head{
+	background-color:#f6f6f6;
+	border:1px solid #bbb;
+	height:34px;
+	line-height:34px;
+	overflow:hidden;
+}
+.chooseOpi_head span{
+	display:block;
+	height:34px;
+	float:left
+}
+.chooseOpi_head b{
+	height:32px;
+	display:block;
+	text-align:center
+}
+
+.chooseOpi .chooseOpi_body img.seatPic{
+	position:absolute;
+	top:5px;
+	right:0
+}
+.chooseOpi .opiPrice{
+	color:#f60
+}
+.chooseOpi .opiPrice em{
+	text-decoration:line-through;
+	color:#666;
+	font-variant:normal;
+	margin-right:5px
+}
+.chooseOpi .opiInfo em{
+	font-size:12px;
+	display:inline-block;
+	width:16px;
+	height:16px;
+	line-height:16px;
+	line-height:18px9;
+	overflow:hidden;
+	text-align:center;
+	color:#fff;
+	font-variant:normal;
+	margin:0 2px
+}
+.chooseOpi .j{
+	background:#f36633
+}
+.chooseOpi .q{
+	background:#32d3e1
+}
+.chooseOpi .y{
+	background:#86c82c
+}
+.chooseOpi .x{
+	background:#489ae9
+}
+.chooseOpi .t{
+	background:#ff4862
+}
+.chooseOpi .k{
+	background:#e99501
+}
+.chooseOpi .t{
+	background:#fc3150
+}
+.chooseOpi .opiurl,.chooseOpi .opiurl b{
+	border-right:0
+}
+.chooseOpi_body{
+	height:300px;
+	padding-right:14px;
+	background:#ecebeb;
+	border-width:0 1px;
+	border-style:solid;
+	border-color:#bbb;
+	position:relative;
+	overflow:hidden;
+	clear:both;
+	z-index:0;
+	*zoom:1;
+	font-size:14px
+}
+.chooseOpi_body ul{
+	margin:0;
+	width:100%;
+	height:100%;
+	overflow:hidden;
+	clear:both
+}
+.chooseOpi_body ul li{
+	height:24px;
+	padding:17px 0;
+	border-width:1px 0;
+	border-style:solid;
+	border-color:#fff transparent #e4e4e4;
+	line-height:24px;
+	width:100%;
+	background:#fff;
+	overflow:hidden;
+	float:left
+}
+.chooseOpi_body ul li.ove{
+	background:#f6f6f6
+}
+.chooseOpi_body ul li.filter{
+	color:#999;
+	opacity:.2;
+	filter:alpha(opacity=20)
+}
+.chooseOpi_body ul li .opiurl{
+	width:167px;
+	border-right:0;
+	font-size:12px
+}
+.chooseOpi_body_plugs{
+	height:auto;
+	padding-right:0
+}
+.chooseOpi_body ul li span{
+	display:block;
+	overflow:hidden;
+	float:left;
+	text-align:center
+}
+.chooseOpi_footer{
+	height:30px;
+	border:1px solid #bbb;
+	line-height:30px;
+	overflow:hidden;
+	text-indent:15px;
+	color:#666
+}
+.chooseOpi_footer span{
+	display:block;
+	border:1px solid #fff;
+	background:#ecf6f9
+}
+.chooseOpi img.seatPic{
+	width:15px;
+	height:15px;
+	background-position:0 -290px;
+	border:0;
+	cursor:pointer;
+	margin:0 0 0 3px
+}
+.chooseOpi .opiSport{
+	width:150px
+}
+.freeTag0 {
+    color: #666666;
+    cursor: pointer;
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    overflow: hidden;
+    padding-left: 18px;
+}
+.cinema_detail_info .i_tese span {
+    margin: 0 5px;
+}
+/*停车场*/
+.sp_tcc {
+    background-position: -558px -245px;
+}
+/*休息区域*/
+.sp_xxqy {
+    background-position: -558px -310px;
+}
+/*柜子租赁图标*/
+.sp_gzzp {
+    background-position: -558px -458px;
+}
+/*洗浴设备*/
+.sp_xyss {
+    background-position: -558px -499px;
+}
+/*优惠信息*/
+.sp_yhxx {
+    background-position: -560px -431px;
+}
+/*场馆卖品*/
+.sp_cgmp {
+    background-position: -432px -348px;
+}
+/*专业培训*/
+.sp_zypx {
+    background-position: -558px -349px;
+}
+/*器材租借*/
+.sp_qccz {
+    background-position: -430px -387px;
+}
+#sportServe span{border-bottom:2px solid #fff;}
+#sportServe .select {
+    border-bottom: 2px solid #3399CC;
+    color: #3399CC;
+}
+
+.ui_cinema_server {
+    background: none repeat scroll 0 0 #FFFAF6;
+    border: 1px solid #D3D3D3;
+    border-radius: 3px 3px 3px 3px;
+    color: #666666;
+    margin: 5px 5px;
+    padding: 5px 10px;
+}
+
+/*预定场次详细表格部分*/
+.choose_body_left{
+	background:#f8fbfe;
+	overflow:hidden
+}
+.choose_body_left .inner{
+	padding:15px 10px
+}
+.choose_body_left .line{
+	border-bottom:1px solid #cfcfcf
+}
+.choose_body_left .mic,.choose_body_right .mic{
+	background-position:-816px -1688px;
+	width:25px;
+	height:16px
+}
+.miced{
+	background-position:-816px -1720px;
+	width:25px;
+	height:16px
+}
+.mics{
+	background-position:-816px -1752px;
+	width:25px;
+	height:16px
+}
+.venues{
+	background-position:right -1654px;
+	width:28px;
+	height:12px
+}
+.time_menu{
+	width:100%;
+	height:30px;
+	clear:both;
+	position:relative;
+	z-index:0
+}
+.time_menu ul{
+	width:82%;
+	height:29px;
+	padding-left:10px;
+	clear:both
+}
+.s_is_choose ul{
+	width:auto;
+	float:left;
+	padding-left:0;
+	margin-right:20px
+}
+.time_menu ul li{
+	width:76px;
+	height:30px;
+	float:left;
+	margin-right:2px;
+	position:relative
+}
+.time_menu ul li a{
+	width:76px;
+	height:30px;
+	line-height:30px;
+	overflow:hidden;
+	text-align:center;
+	color:#666;
+	text-decoration:none!important;
+	background-position:-368px -1711px;
+	vertical-align:middle
+}
+.time_menu ul li a:hover{
+	color:#3a6cad;
+	background-position:-464px -1711px
+}
+.time_menu ul li a.select{
+	height:36px;
+	color:#fff!important;
+	font-weight:bold;
+	background-position:-560px -1711px!important;
+	position:absolute;
+	z-index:1
+}
+.time_menu ul li span.full{
+	width:23px;
+	height:20px;
+	display:block;
+	position:absolute;
+	top:0;
+	left:0;
+	background-position:-648px -395px;
+	z-index:2
+}
+.time_menu .more{
+	color:#01afd1;
+	top:-13px;
+	right:5px
+}
+.s_is_choose .more{
+	top:-5px;
+	right:0
+}
+.time_menu .more input{
+	background-color:#fff;
+	border:1px solid #ccc;
+	width:86px;
+	padding:1px 3px;
+	display:block
+}
+.choose_body_right{
+	width:267px;
+	background:#f8fbfe;
+	display:inline-block;
+	float:left;
+	overflow:hidden;
+}
+.choose_body_right .box{
+	background:#d9ebf9;
+	padding:0 10px;
+	clear:both;
+	overflow:hidden
+}
+.choose_body_right .box .inner{
+	padding:15px 0 20px
+}
+.choose_body_right .line_bot{
+	border-bottom:1px dashed #859bab
+}
+.choose_body_right .box h3{
+	font-size:14px;
+	font-weight:bold;
+	color:#092436;
+	line-height:28px
+}
+.choose_body_right .box .txt{
+	width:140px;
+	font-weight:bold;
+	font-size:16px;
+	padding:5px
+}
+.choose_body_right .bom{
+	padding:20px 15px;
+	position:relative
+}
+.choose_body_right .c6{
+	color:#666
+}
+.hasSite,.sellSite,.pk_select{
+	display:inline-block;
+	height:25px;
+	line-height:24px;
+	margin:1px;
+	width:39px
+}
+.hasSite{
+	background-position:right -1688px;
+	cursor:pointer
+}
+.hashover{
+	background-position:right -1577px
+}
+.sellSite{
+	background-position:right -1720px
+}
+.pk_select{
+	background-position:right -1752px;
+	cursor:pointer
+}
+.table_rows em{
+	color:#fff;
+	font-weight:bold;
+	font-size:12px;
+	display:none
+}
+.has_pk{
+	padding-left:70px;
+	border-width:1px 0 0 1px;
+	border-style:solid;
+	border-color:#e4e4e4
+}
+.has_pk dt{
+	margin-left:-70px;
+	_margin-left:-35px;
+	text-align:center;
+	float:left;
+	width:67px;
+	overflow:hidden;
+	border-right:3px solid #f8fbfe
+}
+.has_pk dt span{
+	font-weight:normal;
+	display:block;
+	height:27px;
+	line-height:26px;
+	width:65px;
+	border:1px solid #fff;
+	font-size:12px;
+	background:#f5f5f5;
+	color:#333
+}
+.has_pk dd,.pk_table{
+	width:100%;
+	height:100%;
+	overflow:hidden;
+	float:left
+}
+.has_pk .pk_rows{
+	height:27px;
+	border-width:1px 0 1px 0;
+	border-style:solid;
+	border-color:#fff;
+	overflow:hidden
+}
+.pk_cols{
+	display:block;
+	float:left;
+	height:29px;
+	line-height:28px;
+	text-align:center;
+	width:40px;
+	border-right:4px solid #f8fbfe;
+	overflow:hidden
+}
+.tablehd{
+	font-style:normal;
+	background:#ebebeb;
+	display:block;
+	height:26px;
+	line-height:26px;
+	color:#333;
+	font-weight:normal
+}
+.isSite{
+	width:180px;
+	height:20px;
+	border:1px solid #4cafda;
+	text-indent:5px;
+	margin-bottom:8px;
+	color:#313131;
+	clear:both;
+	overflow:hidden;
+	background-color:#f6f6f6
+}
+.isSite b,#hasSiteBox{
+	font-size:14px
+}
+.isSite span.cs{
+	background:#f6f6f6 url(../image/close.gif) center center no-repeat;
+	display:inline-block;
+	width:20px;
+	height:20px;
+	float:right;
+	cursor:pointer
+}
+.has_pk span.out{
+	border-top:27px solid #ebebeb;
+	width:0;
+	height:0;
+	border-left:65px solid #f5f5f5;
+	position:relative;
+	overflow:visible
+}
+.has_pk span.out b,.has_pk span.out em{
+	font-weight:normal;
+	position:absolute;
+	display:inline-block;
+	height:20px;
+	width:60px;
+	color:#333
+}
+.has_pk span.out b{
+	right:-16px;
+	top:-28px
+}
+.has_pk span.out em{
+	bottom:3px;
+	left:-80px;
+	_bottom:-5px
+}
+#hasSiteBox b{
+	color:#249bd3;
+	margin:0 5px
+}
+.time_title span{
+	overflow:hidden
+}
+.ml120 {
+    margin-left: 120px;
+}
+.ml10 {
+    margin-left: 10px;
+}
+.mr5 {
+    margin-right: 5px;
+}
+.help_logo {
+    background-position: right -112px;
+    height: 15px;
+    width: 15px;
+}
+.brown {
+    color: #329ACD;
+}
+
+/*预定场次详细表格结束*/
+
+/*图片列表部分*/
+.item {
+  margin: 10px;
+  float: left;
+}
+
+/*活动列表*/
+.right_Hotlist{
+	margin:0;
+}
+.right_Hotlist li {
+    background-color: #F7F9F8;
+    border: 1px solid #EEEEEE;
+    margin-top: 10px;
+    padding: 10px;
+    width: 608px;
+}
+.right_Hotlist .uipic{
+	width:102px;
+	position:relative
+}
+.right_Hotlist li{
+	overflow:hidden;
+	padding-bottom:20px;
+	clear:both;
+}
+.right_Hotlist .uipic img{
+	border:1px solid #ccc;
+	padding:2px;
+	background:#fff
+}
+.right_Hotlist .uipic .ing,.right_Hotlist .uipic .end{
+	width:53px;
+	height:39px;
+	background-position:-7px -122px;
+	display:block;
+	position:absolute;
+	top:3px;
+	left:3px
+}
+.right_Hotlist .uipic .end{
+	background-position:-8px -164px
+}
+.right_Hotlist .uipic .mask{
+	background-color:#333;
+	bottom:3px;
+	left:3px;
+	width:96px;
+	height:30px
+}
+.right_Hotlist .uipic .txt{
+	position:absolute;
+	bottom:3px;
+	left:3px;
+	width:96px;
+	height:30px;
+	color:#fff;
+	line-height:30px;
+	overflow:hidden;
+	text-align:center
+}
+.right_Hotlist .sMatch{
+	height:134px;
+	margin-bottom:0;
+	padding-bottom:0;
+	overflow:hidden
+}
+.right_Hotlist .sMatch img{
+	border:0!important
+}
+.right_Hotlist .sMatch a{
+	width:100px;
+	height:132px;
+	display:inline-block;
+	overflow:hidden;
+	border:1px solid #ccc
+}
+.right_Hotlist .sMatch .yz{
+	top:3px;
+	left:3px
+}
+.right_Hotlist .sMatch .vs{
+	top:auto;
+	left:20px;
+	bottom:40px
+}
+.right_Hotlist .sMatch .tx{
+	top:auto;
+	right:5px;
+	bottom:37px;
+	padding:0!important
+}
+.right_Hotlist .sMatch{
+	padding-right:0
+}
+.right_Hotlist .uiText p {
+    margin-top: 5px;
+}
+.uipic, .uiText, .ui_left, .ui_right {
+    float: left;
+    margin-bottom: -30000px;
+    padding-bottom: 30000px;
+}
+.uipic {
+    display: inline-block;
+    margin-right: 10px;
+    text-align: center;
+    width: auto;
+}
+
+
+/*end of 展示主体部分*/
+
+.container .contain .w{
+	background:white;
+}
+
+.left{
+	float:left;
+}
+
+.right{
+	float:right;
+}
+
+#footer{
+	width:100%;
+	text-align:center;
+	line-height:15px;
+	margin-top:10px;
+}
+
+#footer .links{
+	float:left;
+}
+
+#footer .links a{
+	margin:0px 8px;
+	color:##6A5959;
+}
+
+#footer .copyright{
+	float:right;
+	color:#999999;
+}
+
+.form {
+    position: relative;
+}
+.form .item {
+    overflow: hidden;
+}
+
+.form label, .form input, .form select, .form textarea, .form button, .form .label{
+    float: left;
+    font-size: 12px;
+}
+
+body .fl {
+    float: left;
+}
+
+.btn-img {
+    border: 0 none;
+    cursor: pointer;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    text-align: center;
+}
+
+.w {
+    margin: 0 auto;
+    padding: 0;
+    width: 990px;
+	border:2px solid #EDECE7;
+	font-weight:bold;
+}
+
+h5 {
+    font-size: 12px;
+}
+
+/**
+register
+*/
+
+#regist .mt {
+    border-bottom: 2px solid #EDECE7;
+    height: 49px;
+    margin: 20px;
+}
+
+.ftx13, .flk13 a:link, .flk13 a:visited, a.flk13:link, a.flk13:visited {
+    color: #005AA0;
+}
+
+#regist .mc {
+    margin-bottom: 10px;
+    padding: 15px 20px 20px;
+}
+
+#regist .item {
+    height: 50px;
+    line-height: 26px;
+    padding-top: 5px;
+}
+
+#regist .label {
+    font-size: 14px;
+    text-align: right;
+    width: 150px;
+}
+
+#regist .label b {
+	font-size: 14px;
+    font-weight: normal;
+    margin-right: 5px;
+    color: #FF0000;
+}
+
+#regist .text {
+    border: 1px solid #BBBBBB;
+    font-size: 14px;
+    height: 16px;
+    padding: 4px 3px;
+    width: 240px;
+}
+
+#regist .text-1 {
+    width: 100px;
+}
+
+#regist .img img {
+    height: 26px;
+    margin: 0 5px;
+    cursor: pointer;
+    display: block;
+    height: 26px;
+    width: 100px;
+}
+
+#regist .btn-regist {
+    background: #5C982A;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    border: medium none;
+    height: 30px;
+    width: 169px;
+}
+
+#protocol-con {
+    border: 1px solid #CCCCCC;
+    color: #666666;
+    height: 80px;
+    margin: 0 auto;
+    overflow-y: scroll;
+    padding: 8px;
+    width: 450px;
+}
+
+#regist .blank {
+    height: 16px;
+    margin: 2px 5px 0;
+    width: 16px;
+}
+
+#regist .focus {
+    color: #999999;
+    line-height: 22px;
+}
+
+#regist .highlight1{
+	border:1px solid #5A841E;
+	outline:2px solid #83D60D;
+}
+
+#regist .highlight2 {
+    border: 1px solid #FF0000;
+    color: #FF0000;
+    outline: 1px solid #FFC1C1;
+}
+
+#regist .succeed {
+    background: url("../image/check.png") no-repeat scroll transparent;
+}
+
+#regist .error {
+    color: red;
+    line-height: 22px;
+}
+
+#regist .form {
+    float: left;
+    overflow: hidden;
+    width: 590px;
+}
+
+#guide {
+    border-left: 1px dashed #E7E7E7;
+    float: right;
+    height: 410px;
+    padding: 0 0 20px 40px;
+    width: 300px;
+}
+
+#guide .content {
+    color: #666666;
+    padding: 10px 0 0;
+}
+
+
+#guide .btn-personal {
+    background: #5C982A;
+    font-size: 14px;
+    font-weight: bold;
+    height: 35px;
+    line-height: 35px;
+    margin: 35px auto 20px;
+    width: 137px;
+    color:white;
+}
+
+
+.btn-link {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+
+/*
+login
+*/
+#entry .mt {
+    border-bottom: 2px solid #EDECE7;
+    height: 49px;
+    margin: 20px;
+}
+/*
+#entry .mt h2 {
+    float: left;
+    height: 33px;
+    line-height: 33px;
+    padding-left: 15px;
+}
+*/
+
+#entry .mc {
+    margin-bottom: 10px;
+    padding: 15px 20px 20px;
+}
+
+#entry .item {
+    height: 50px;
+    line-height: 26px;
+    padding-top: 5px;
+}
+
+#entry .label {
+    font-size: 14px;
+    text-align: right;
+    width: 100px;
+}
+
+#entry .text {
+    border: 1px solid #BBBBBB;
+    font-size: 14px;
+    height: 16px;
+    padding: 4px 3px;
+    width: 240px;
+}
+
+#entry .form {
+    float: left;
+    overflow: hidden;
+    width: 540px;
+}
+
+#entry .blank {
+    height: 16px;
+    margin: 2px 5px 0;
+    width: 16px;
+}
+
+#entry .item a:link, #entry .item a:visited {
+    text-decoration: underline;
+}
+
+#entry .img img {
+    height: 26px;
+    margin: 0 5px;
+    cursor: pointer;
+    display: block;
+    height: 26px;
+    width: 100px;
+}
+
+#entry .text-1 {
+    width: 100px;
+}
+
+#entry #autoentry {
+    height: 50px;
+}
+
+#entry .safety {
+    position: relative;
+}
+
+#entry .mar {
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+#entry .checkbox {
+    margin-top: 7px;
+}
+
+#entry .btn-entry {
+    background: #5C982A;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+}
+
+.btn-link {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+
+#entry .focus {
+    color: #999999;
+    line-height: 22px;
+}
+
+#entry .highlight1{
+	border:1px solid #5A841E;
+	outline:2px solid #83D60D;
+}
+
+#entry .highlight2 {
+    border: 1px solid #FF0000;
+    color: #FF0000;
+    outline: 1px solid #FFC1C1;
+}
+
+#entry .succeed {
+    background: url("../image/check.png") no-repeat scroll transparent;
+}
+
+#entry .error {
+    color: red;
+    line-height: 22px;
+}
+#loginname{
+	color:#BBBBBB;
+}
