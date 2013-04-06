@@ -1,4 +1,9 @@
 <?php
+/**
+ * 体育馆信息，处理体育馆展示
+ * @author E
+ *
+ */
 
 class sportController extends Controller
 {
@@ -10,7 +15,7 @@ class sportController extends Controller
 	private $_model;
 
 	public function actionList() {
-				
+		
 		
 		
 	}
