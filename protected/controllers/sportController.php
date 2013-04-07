@@ -11,6 +11,7 @@ class sportController extends Controller
 
 	public function beforeAction($action) {
 		Yii::app()->clientScript->registerCssFile(Yii::app()->request->baseUrl.'/css/bootstrap.css');
+		Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl.'/js/bootstrap.js');
 		return true;
 	}
 	/**

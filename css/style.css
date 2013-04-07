@@ -11,6 +11,9 @@
     
 }
 
+html {
+    background: none repeat scroll 0 0 #E3F5DE;
+}
 ul{
 	list-style: none outside none;
 }
@@ -38,9 +41,22 @@ a:link, a:visited {
 	border-color: #B94A48;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
 }
+/*体育馆列表*/
+.dl-horizontal dt {
+    width: auto !important;
+}
 
+.dl-horizontal dd {
+    margin-left: 80px !important;
+}
+.feature_list a {
+	color: #333333;
+    display: inline-block;
+    margin-right: 5px;
+    padding: 0 5px;
+}
 
-
+/*体育馆列表结束*/
 .clr {
     clear: both;
     display: block;
@@ -97,7 +113,7 @@ a:link, a:visited {
 }
 /*头部介绍*/
 .container{
-	background-color: #FFFFFF;
+	background:#fff;
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 4px 4px 4px 4px;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
@@ -495,6 +511,14 @@ sub {
 /*器材租借*/
 .sp_qccz {
     background-position: -430px -387px;
+}
+/*器材维护*/
+.sp_qcwx {
+    background-position: -558px -388px;
+}
+/*刷卡结算*/
+.sp_skjs {
+    background-position: -558px -273px;
 }
 #sportServe span{border-bottom:2px solid #fff;}
 #sportServe .select {
@@ -1014,8 +1038,6 @@ h5 {
 }
 
 .box-header {
-    background-color: #FAFAFA;
-    background-image: linear-gradient(to bottom, #FAFAFA, #EFEFEF);
     border: 1px solid #DDDDDD;
     border-radius: 2px 2px 0 0;
     box-shadow: none;

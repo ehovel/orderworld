@@ -3097,3 +3097,29 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/img/glyphicons-halflings.png
 ---
+2013/04/07 23:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "image/s_banner.jpg"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('image/s_banner....')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/image/s_banner.jpg
+HTTP_REFERER=http://www.orderworld-local.com/index.php/sport/list
+---
+2013/04/07 23:22:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "image/s_banner.jpg"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('image/s_banner....')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/image/s_banner.jpg
+---
+2013/04/07 23:22:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "image/s_banner.jpg"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('image/s_banner....')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/image/s_banner.jpg
+HTTP_REFERER=http://www.orderworld-local.com/index.php/sport/list
+---
