@@ -1,6 +1,6 @@
 <div class="container new_detail_head">
 		<div class="row">
-			<div class="span2"><img class="bp" src="/image/aotilogo.jpg" /></div>
+			<div class="span2"><img class="bp" src="<?php echo $sport->def_image->path;?>" /></div>
 			<div class="span6">
 				<div class="detail_head_desc">
 					<div class="detail_head_name">
