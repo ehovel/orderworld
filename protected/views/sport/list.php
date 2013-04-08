@@ -1,3 +1,4 @@
+<div class="container">
 <div class="row sortable ui-sortable">
 	<div class="span9">
 		<section class="row">
@@ -79,7 +80,7 @@
 									</p>
 									<div class="left mt20"></div>
 									<div class="right_wala mt20">
-										<a href="/sport/112770211/commentlist" class="wmore " target="_blank">共<span class="cSport">0</span>条评论！</a>
+										<a href="/sport/<?php echo $film->sid;?>/commentlist" class="wmore " target="_blank">共<span class="cSport">0</span>条评论！</a>
 									</div>
 																	</div>
 				</div>
@@ -121,3 +122,4 @@ $(document).ready(function(){
 })
 </script>
 <?php }?>
+</div>

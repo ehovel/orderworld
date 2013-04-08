@@ -46,11 +46,7 @@ return array(
 		),
 		'urlManager'=>array(
 			'urlFormat'=>'path',
-			'rules'=>array(
-				'post/<id:\d+>/<title:.*?>'=>'post/view',
-				'posts/<tag:.*?>'=>'post/index',
-				'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
-			),
+			'rules'=>require(dirname(__FILE__).'/url_manager.php'),
 		),
 		'log'=>array(
 			'class'=>'CLogRouter',
