@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50130
 File Encoding         : 65001
 
-Date: 2013-04-08 00:27:21
+Date: 2013-04-08 23:32:01
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -135,6 +135,7 @@ CREATE TABLE `sports` (
   `contact` varchar(1024) NOT NULL COMMENT '联系信息',
   `hours` varchar(255) NOT NULL COMMENT '营业时间',
   `introduce` text COMMENT '商家简介',
+  `bulletin` text COMMENT '体育馆公告',
   `services` varchar(1024) DEFAULT NULL COMMENT '提供的服务',
   `type` tinyint(2) NOT NULL DEFAULT '1' COMMENT '商家类型：1：体育馆',
   `recommend_count` int(11) NOT NULL DEFAULT '0' COMMENT '推荐数',
@@ -150,9 +151,26 @@ CREATE TABLE `sports` (
 -- ----------------------------
 -- Records of sports
 -- ----------------------------
-INSERT INTO `sports` VALUES ('130406587994', '54', null, 'dpx体育馆', 'hehe', '1221928', '11:11-11:11', '滴滴答答', '0', '1', '0', '0', '80', '0000-00-00 00:00:00', '0000-00-00 00:00:00');
-INSERT INTO `sports` VALUES ('130406698302', '0', null, '测试体育馆2', '南京江宁', '12111', '11:11-11:11', '阿蓝精灵', '0', '1', '0', '0', '80', '0000-00-00 00:00:00', '0000-00-00 00:00:00');
-INSERT INTO `sports` VALUES ('130406748166', '0', null, '测试体育馆2', '南京江宁', '12111', '11:11-11:11', '阿蓝精灵', '0', '1', '0', '0', '80', '0000-00-00 00:00:00', '0000-00-00 00:00:00');
+INSERT INTO `sports` VALUES ('130406587994', '54', null, '虹桥临空SOHO羽毛球馆', '长宁区	协和路1551号(临虹路口)', '021-33603196', '\r\n07:00-22:00', '激荡羽毛球银都馆是激荡体育的一个提升力作，由激荡体育直营管理。球馆坐落于莘庄工业区银都路与申南一路的交接，周边公司林立，小区繁多。在提升用户的打球感受方面，球馆做到层高10米，共8片塑胶场地，并且配有完备的配套设施（如洗浴、休息区等），为球友提供优质的打球场地是公司服务的宗旨！ ', '场馆假期暂停预定', '0', '1', '0', '0', '80', '0000-00-00 00:00:00', '0000-00-00 00:00:00');
+INSERT INTO `sports` VALUES ('130406698302', '0', null, '东易羽毛球馆-南京中医药大学体育馆', '鼓楼区汉中路282号（南京中医药大学体育馆四楼）', '025-86556397', '08:00-22:00', '东易体育（DoEasy Sporting）南京中医药大学体育馆，位于南京中医药大学体育馆4楼，该羽毛球馆环境优雅，位于南京中医药大学体育馆内，周边多路公交车直达，地铁二号线直达。该场馆积极推行会员卡消费模式，拥有该馆会员卡的消费者将享受超值的优惠待遇。会员卡先充值后消费的模式，馆内所有消费项目和', null, '0', '1', '0', '0', '80', '0000-00-00 00:00:00', '0000-00-00 00:00:00');
+INSERT INTO `sports` VALUES ('130406748166', '0', null, '玄武区体育中心', '玄武区玄武区月苑南路8号', '025-66615055', '10:00-22:00 ', '南京玄武区体育中心，服务设施周到齐全，价格合理，环境优雅干净。', null, '0', '1', '0', '0', '80', '0000-00-00 00:00:00', '0000-00-00 00:00:00');
+
+-- ----------------------------
+-- Table structure for `sport_images`
+-- ----------------------------
+DROP TABLE IF EXISTS `sport_images`;
+CREATE TABLE `sport_images` (
+  `id` char(12) NOT NULL,
+  `path` varchar(255) NOT NULL COMMENT '图片路径',
+  `postfix` varchar(4) NOT NULL COMMENT '后缀',
+  `is_default` tinyint(1) NOT NULL COMMENT '是否默认图片',
+  `is_valid` tinyint(1) NOT NULL DEFAULT '0' COMMENT '是否经过验证',
+  `del_flag` tinyint(1) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='场馆图片';
+
+-- ----------------------------
+-- Records of sport_images
+-- ----------------------------
 
 -- ----------------------------
 -- Table structure for `sport_items`
