@@ -30,6 +30,7 @@ class SiteController extends Controller
 	 */
 	public function actionError()
 	{
+		Yii::app()->clientScript->registerCssFile(Yii::app()->request->baseUrl.'/css/bootstrap.css');
 	    if($error=Yii::app()->errorHandler->error)
 	    {
 	    	if(Yii::app()->request->isAjaxRequest)

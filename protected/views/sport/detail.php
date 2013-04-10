@@ -160,13 +160,16 @@
 	</div>
 	<!-- 以上是场馆介绍 --><!-- 以上是场馆介绍 --><!-- 以上是场馆介绍 --><!-- 以上是场馆介绍 --><!-- 以上是场馆介绍 --><!-- 以上是场馆介绍 --><!-- 以上是场馆介绍 -->
 	<!-- 以下是场次表格 --><!-- 以下是场次表格 --><!-- 以下是场次表格 --><!-- 以下是场次表格 --><!-- 以下是场次表格 --><!-- 以下是场次表格 --><!-- 以下是场次表格 -->
+			<?php if ($sportItems) {?>
 			<div class="bs-docs-example">
 	            <ul class="nav nav-pills" id="myTab">
-	              <li class="active"><a data-toggle="tab" href="#home" class="btn-small">羽毛球</a></li>
-	              <li class=""><a data-toggle="tab" href="#profile">乒乓球</a></li>
+	            	<?php foreach ($sportItems as $sportItem) {?>
+	              	<li class="<?php echo $sportItem==reset($sportItems) ? 'active' : '';?>"><a data-toggle="tab" href="#item_<?php echo $sportItem['siid'];?>" class="btn-small"><?php echo $sportItem['name']?></a></li>
+	              	<?php }?>
 	            </ul>
 	            <div class="tab-content" id="myTabContent">
-					<div id="home" class="tab-pane fade active in">
+	            	<?php foreach ($sportItems as $sportItem) {?>
+					<div id="item_<?php echo $sportItem['siid'];?>" class="tab-pane fade active in">
 						<div id="ottDiv">
 							<div class="detail_ticket_chooseBg">
 								<span title="室内">场地位置：室内</span>
@@ -291,61 +294,7 @@
 							</div>
 						</div>
 					</div>
-					<div id="profile" class="tab-pane fade">
-						<div id="ottDiv">
-							<div class="chooseOpi mt10" style="height:auto">
-						<div class="chooseOpi_head">
-							<span class="opitime"><b>预订日期</b></span>
-							<span class="opiPrice"><b>价格(元)</b></span>
-							<span class="opiInfo"><b>说明</b></span>
-							<span class="opiurl"><b>预订</b></span>
-						</div>
-						<div class="chooseOpi_body" style="overflow:hidden;padding-right:0;height:auto;">
-							<ul class="clear" style="margin-top:0px;">
-										<li>
-											<span class="opitime"><b>03-21&nbsp;周四</b></span>
-											<span class="opiPrice">
-												<em>(45)</em><b>45</b>
-											</span>
-											<span class="opiInfo">
-												<em class="j" title="支持积分抵值">积</em><em class="q" title="支持票券抵值">券</em><em class="y" title="支持支付优惠">惠</em>				
-											</span>
-											<span class="opiurl sport_btn">
-												<a href="/sport/order/step1.xhtml?ottid=109906349" class="btn btn-small btn-info" target="_blank">立即预订</a>
-											</span>
-										</li>
-										<li>
-											<span class="opitime"><b>03-21&nbsp;周四</b></span>
-											<span class="opiPrice">
-												<em>(45)</em><b>45</b>
-											</span>
-											<span class="opiInfo">
-												<em class="j" title="支持积分抵值">积</em><em class="q" title="支持票券抵值">券</em><em class="y" title="支持支付优惠">惠</em>				
-											</span>
-											<span class="opiurl sport_btn">
-												<a href="/sport/order/step1.xhtml?ottid=109906349" class="btn btn-small btn-success" target="_blank">立即预订</a>
-											</span>
-										</li>
-										<li>
-											<span class="opitime"><b>03-21&nbsp;周四</b></span>
-											<span class="opiPrice">
-												<em>(45)</em><b>45</b>
-											</span>
-											<span class="opiInfo">
-												<em class="j" title="支持积分抵值">积</em><em class="q" title="支持票券抵值">券</em><em class="y" title="支持支付优惠">惠</em>				
-											</span>
-											<span class="opiurl sport_btn">
-												<a href="/sport/order/step1.xhtml?ottid=109906349" class="btn btn-small btn-danger" target="_blank">立即预订</a>
-											</span>
-										</li>
-									</ul>
-								</div>
-								<div class="chooseOpi_footer">
-									<span>*该场馆提前120分钟关闭预订。</span>
-								</div>
-							</div>
-						</div>
-					</div>
+					<?php }?>
 	            </div>
 				<div class="clearfix mt20">
 					<div class="title"><h5>最近购票会员</h5></div>
@@ -381,6 +330,7 @@
 					</ul>
 				</div>
 	        </div>
+	        <?php }?>
 	        <!-- 以上是场次表格 --> <!-- 以上是场次表格 --> <!-- 以上是场次表格 --> <!-- 以上是场次表格 --> <!-- 以上是场次表格 --> <!-- 以上是场次表格 --> <!-- 以上是场次表格 -->
 	        <!-- 以下是详细预定场次表格 --><!-- 以下是详细预定场次表格 --><!-- 以下是详细预定场次表格 --><!-- 以下是详细预定场次表格 --><!-- 以下是详细预定场次表格 -->
 	        <div class="row">
@@ -1098,7 +1048,7 @@
 					</dl>
 					<dl class="sp-60 mt10 clear">
 						<dd>
-							<img title="看不清楚，请双击换一张图片" class="mr5" src="image/test/captcha.xhtml.jpg" id="captchaImg">
+							<img title="看不清楚，请双击换一张图片" class="mr5" src="" id="captchaImg">
 							<span style="cursor:pointer;color:#39c;" class="cyan" onclick="GewaraUtil.refreshCaptcha('captcha');">看不清楚</span>
 						</dd>
 					</dl>
@@ -1116,7 +1066,6 @@
 				</div>
 	        </div>
 	        <!-- 贼里是评论部分 评论调new_wala.css -->
-	        <link rel="stylesheet" type="text/css" href="css/new_wala.css" />
 	        <div class="row">
 	        	<div class="mt20 span11">
 					<div id="walaDiary">

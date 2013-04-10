@@ -54,7 +54,7 @@ class Sport extends CActiveRecord
 		// class name for the relations automatically generated below.
 		return array(
 			'user' => array(self::BELONGS_TO, 'User', 'uid'),
-			'sport_items' => array(self::HAS_MANY, 'Sportitem', 'siid', 'order'=>'sport_items.add_time DESC'),
+			'sport_items' => array(self::HAS_MANY, 'Sportitem', 'sid', 'order'=>'sport_items.add_time DESC'),
 			'sport_images' => array(self::HAS_MANY, 'Sportimage', 'sid', 'order'=>'sport_images.add_time DESC'),
 			'def_image'=>array(self::HAS_ONE,'Sportimage','sid','order'=>'def_image.is_default DESC')
 		);

@@ -5965,3 +5965,791 @@ Stack trace:
 REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
 HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
 ---
+2013/04/10 22:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+---
+2013/04/10 22:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 22:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 22:40:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:40:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:40:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:40:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:40:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 22:45:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:45:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 22:45:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:45:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:45:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:45:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:45:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 22:45:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:49:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:49:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+---
+2013/04/10 22:49:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:49:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:49:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:49:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:49:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:49:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:49:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 22:51:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 22:51:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 22:51:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "css" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('css')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('css')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/css/new_w...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/css/new_wala.css
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 22:51:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 22:51:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 23:17:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 23:17:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 23:17:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+---
+2013/04/10 23:17:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "image" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('image')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('image')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/image/tes...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/image/test/captcha.xhtml.jpg
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 23:24:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/10 23:26:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:37:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:38:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:38:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:39:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:43:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:49:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:55:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/10 23:58:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/11 00:04:34 [error] [php] Undefined index: id (F:weborderWorldprotectedviewssportdetail.php:173)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3576): sportController->renderFile()
+#1 F:weborderWorldframeworkyiilite.php(3544): sportController->renderPartial()
+#2 F:weborderWorldprotectedcontrollerssportController.php(53): sportController->render()
+#3 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#4 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#5 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#6 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#7 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#8 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#9 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#10 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/130406587994
+2013/04/11 00:04:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/11 00:06:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---

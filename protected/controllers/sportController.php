@@ -43,11 +43,14 @@ class sportController extends Controller
 	 */
 	public function actionView() {
 		$sportModel = Sport::model()->findByPk($this->sid);
+		foreach($sportModel->sport_items as $sportItem){
+			$sportItems[] = $sportItem->getAttributes();
+		}
 		if (is_null($sportModel)) {
 			throw new CHttpException(404,'此页面不存在');
 		}
 		if ($sportModel->exists()) {
-			$this->render('detail',array('sport'=>$sportModel));
+			$this->render('detail',array('sport'=>$sportModel,'sportItems'=>$sportItems));
 		}
 	}
 	
