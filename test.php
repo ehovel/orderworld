@@ -1,3 +1,13 @@
+<?php 
+
+$a  = array(
+		'场地位置'=>'室内',
+		'场地材质'=>'专业塑胶',
+		'场地数量'=>'8片',
+		);
+echo serialize($a);exit;
+?>
+
 <div class="detail_body_left">
 	<ul class="right_Hotlist">
 		<li style="margin-top: 0;">

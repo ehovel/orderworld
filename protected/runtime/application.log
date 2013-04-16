@@ -6753,3 +6753,710 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/favicon.ico
 ---
+2013/04/16 22:12:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:42:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:44:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:46:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:47:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:55:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:56:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:56:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:57:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 22:57:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:01:18 [error] [php] include(Sportitemplan.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (F:weborderWorldframeworkyiilite.php:238)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(6894): spl_autoload_call()
+#1 F:weborderWorldframeworkdbarCActiveFinder.php(220): model()
+#2 F:weborderWorldframeworkdbarCActiveFinder.php(49): CActiveFinder->buildJoinTree()
+#3 F:weborderWorldframeworkyiilite.php(6836): CActiveFinder->__construct()
+#4 F:weborderWorldframeworkyiilite.php(6760): Sportitem->getRelated()
+#5 F:weborderWorldprotectedcontrollerssportController.php(49): Sportitem->__get()
+#6 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#7 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#8 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#9 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#10 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#11 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#12 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#13 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/130406587994
+2013/04/16 23:01:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:04:13 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_items.add_time' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3` FROM `sport_item_plans` `sport_item_plans`  WHERE (`sport_item_plans`.`sipid`=:ypl0) ORDER BY sport_items.add_time DESC.
+2013/04/16 23:04:13 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_items.add_time' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3` FROM `sport_item_plans` `sport_item_plans`  WHERE (`sport_item_plans`.`sipid`=:ypl0) ORDER BY sport_items.add_time DESC' in F:weborderWorldframeworkyiilite.php:8799
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(8723): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 F:weborderWorldframeworkdbarCActiveFinder.php(784): CDbCommand->queryAll()
+#2 F:weborderWorldframeworkdbarCActiveFinder.php(499): CJoinElement->runQuery(Object(CJoinQuery))
+#3 F:weborderWorldframeworkdbarCActiveFinder.php(167): CJoinElement->lazyFind(Object(Sportitem))
+#4 F:weborderWorldframeworkyiilite.php(6837): CActiveFinder->lazyFind(Object(Sportitem))
+#5 F:weborderWorldframeworkyiilite.php(6760): CActiveRecord->getRelated('sport_item_plan...')
+#6 F:weborderWorldprotectedcontrollerssportController.php(49): CActiveRecord->__get('sport_item_plan...')
+#7 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#8 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams(Array)
+#9 F:weborderWorldframeworkyiilite.php(3309): CController->runAction(Object(CInlineAction))
+#10 F:weborderWorldframeworkyiilite.php(3299): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 F:weborderWorldframeworkyiilite.php(1699): CController->run('view')
+#12 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/view')
+#13 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#14 F:weborderWorldindex.php(11): CApplication->run()
+#15 {main}
+REQUEST_URI=/sport/130406587994
+---
+2013/04/16 23:04:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:07:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_items.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>2013-04-16) AND (`sport_item_plans`.`sipid`=:ypl0) ORDER BY sport_items.date DESC.
+2013/04/16 23:07:12 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_items.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>2013-04-16) AND (`sport_item_plans`.`sipid`=:ypl0) ORDER BY sport_items.date DESC' in F:weborderWorldframeworkyiilite.php:8799
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(8723): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 F:weborderWorldframeworkdbarCActiveFinder.php(784): CDbCommand->queryAll()
+#2 F:weborderWorldframeworkdbarCActiveFinder.php(499): CJoinElement->runQuery(Object(CJoinQuery))
+#3 F:weborderWorldframeworkdbarCActiveFinder.php(167): CJoinElement->lazyFind(Object(Sportitem))
+#4 F:weborderWorldframeworkyiilite.php(6837): CActiveFinder->lazyFind(Object(Sportitem))
+#5 F:weborderWorldframeworkyiilite.php(6760): CActiveRecord->getRelated('sport_item_plan...')
+#6 F:weborderWorldprotectedcontrollerssportController.php(49): CActiveRecord->__get('sport_item_plan...')
+#7 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#8 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams(Array)
+#9 F:weborderWorldframeworkyiilite.php(3309): CController->runAction(Object(CInlineAction))
+#10 F:weborderWorldframeworkyiilite.php(3299): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 F:weborderWorldframeworkyiilite.php(1699): CController->run('view')
+#12 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/view')
+#13 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#14 F:weborderWorldindex.php(11): CApplication->run()
+#15 {main}
+REQUEST_URI=/sport/130406587994
+---
+2013/04/16 23:07:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:08:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:08:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:09:02 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_item_plan.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>2013-04-16) AND (`sport_item_plans`.`sipid`=:ypl0) ORDER BY sport_item_plan.date DESC.
+2013/04/16 23:09:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_item_plan.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>2013-04-16) AND (`sport_item_plans`.`sipid`=:ypl0) ORDER BY sport_item_plan.date DESC' in F:weborderWorldframeworkyiilite.php:8799
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(8723): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 F:weborderWorldframeworkdbarCActiveFinder.php(784): CDbCommand->queryAll()
+#2 F:weborderWorldframeworkdbarCActiveFinder.php(499): CJoinElement->runQuery(Object(CJoinQuery))
+#3 F:weborderWorldframeworkdbarCActiveFinder.php(167): CJoinElement->lazyFind(Object(Sportitem))
+#4 F:weborderWorldframeworkyiilite.php(6837): CActiveFinder->lazyFind(Object(Sportitem))
+#5 F:weborderWorldframeworkyiilite.php(6760): CActiveRecord->getRelated('sport_item_plan...')
+#6 F:weborderWorldprotectedcontrollerssportController.php(49): CActiveRecord->__get('sport_item_plan...')
+#7 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#8 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams(Array)
+#9 F:weborderWorldframeworkyiilite.php(3309): CController->runAction(Object(CInlineAction))
+#10 F:weborderWorldframeworkyiilite.php(3299): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 F:weborderWorldframeworkyiilite.php(1699): CController->run('view')
+#12 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/view')
+#13 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#14 F:weborderWorldindex.php(11): CApplication->run()
+#15 {main}
+REQUEST_URI=/sport/130406587994
+---
+2013/04/16 23:09:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:09:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_item_plan.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>2013-04-16) AND (`sport_item_plans`.`siid`=:ypl0) ORDER BY sport_item_plan.date DESC.
+2013/04/16 23:09:12 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_item_plan.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>2013-04-16) AND (`sport_item_plans`.`siid`=:ypl0) ORDER BY sport_item_plan.date DESC' in F:weborderWorldframeworkyiilite.php:8799
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(8723): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 F:weborderWorldframeworkdbarCActiveFinder.php(784): CDbCommand->queryAll()
+#2 F:weborderWorldframeworkdbarCActiveFinder.php(499): CJoinElement->runQuery(Object(CJoinQuery))
+#3 F:weborderWorldframeworkdbarCActiveFinder.php(167): CJoinElement->lazyFind(Object(Sportitem))
+#4 F:weborderWorldframeworkyiilite.php(6837): CActiveFinder->lazyFind(Object(Sportitem))
+#5 F:weborderWorldframeworkyiilite.php(6760): CActiveRecord->getRelated('sport_item_plan...')
+#6 F:weborderWorldprotectedcontrollerssportController.php(49): CActiveRecord->__get('sport_item_plan...')
+#7 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#8 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams(Array)
+#9 F:weborderWorldframeworkyiilite.php(3309): CController->runAction(Object(CInlineAction))
+#10 F:weborderWorldframeworkyiilite.php(3299): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 F:weborderWorldframeworkyiilite.php(1699): CController->run('view')
+#12 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/view')
+#13 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#14 F:weborderWorldindex.php(11): CApplication->run()
+#15 {main}
+REQUEST_URI=/sport/130406587994
+---
+2013/04/16 23:09:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:09:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:10:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:10:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:15:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:18:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:19:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:19:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:23:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:23:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:23:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:23:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:24:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:24:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:24:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:24:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:39:40 [error] [php] A non well formed numeric value encountered (F:weborderWorldprotectedviewssportdetail.php:196)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3152): sportController->renderInternal()
+#1 F:weborderWorldframeworkyiilite.php(3576): sportController->renderFile()
+#2 F:weborderWorldframeworkyiilite.php(3544): sportController->renderPartial()
+#3 F:weborderWorldprotectedcontrollerssportController.php(63): sportController->render()
+#4 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#5 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#6 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#7 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#8 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#9 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#10 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#11 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/130406587994
+2013/04/16 23:39:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:39:58 [error] [php] A non well formed numeric value encountered (F:weborderWorldprotectedviewssportdetail.php:196)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3152): sportController->renderInternal()
+#1 F:weborderWorldframeworkyiilite.php(3576): sportController->renderFile()
+#2 F:weborderWorldframeworkyiilite.php(3544): sportController->renderPartial()
+#3 F:weborderWorldprotectedcontrollerssportController.php(63): sportController->render()
+#4 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#5 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#6 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#7 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#8 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#9 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#10 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#11 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/130406587994
+2013/04/16 23:39:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:40:45 [error] [php] A non well formed numeric value encountered (F:weborderWorldprotectedviewssportdetail.php:196)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3152): sportController->renderInternal()
+#1 F:weborderWorldframeworkyiilite.php(3576): sportController->renderFile()
+#2 F:weborderWorldframeworkyiilite.php(3544): sportController->renderPartial()
+#3 F:weborderWorldprotectedcontrollerssportController.php(63): sportController->render()
+#4 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#5 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#6 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#7 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#8 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#9 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#10 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#11 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/130406587994
+2013/04/16 23:40:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:45:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:45:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:48:39 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_item_plan.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3`, `sport_item_plans`.`price` AS `t1_c4` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>2013-04-17) AND (`sport_item_plans`.`siid`=:ypl0) ORDER BY sport_item_plan.date ASC.
+2013/04/16 23:48:39 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_item_plan.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3`, `sport_item_plans`.`price` AS `t1_c4` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>2013-04-17) AND (`sport_item_plans`.`siid`=:ypl0) ORDER BY sport_item_plan.date ASC' in F:weborderWorldframeworkyiilite.php:8799
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(8723): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 F:weborderWorldframeworkdbarCActiveFinder.php(784): CDbCommand->queryAll()
+#2 F:weborderWorldframeworkdbarCActiveFinder.php(499): CJoinElement->runQuery(Object(CJoinQuery))
+#3 F:weborderWorldframeworkdbarCActiveFinder.php(167): CJoinElement->lazyFind(Object(Sportitem))
+#4 F:weborderWorldframeworkyiilite.php(6837): CActiveFinder->lazyFind(Object(Sportitem))
+#5 F:weborderWorldframeworkyiilite.php(6760): CActiveRecord->getRelated('sport_item_plan...')
+#6 F:weborderWorldprotectedcontrollerssportController.php(53): CActiveRecord->__get('sport_item_plan...')
+#7 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#8 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams(Array)
+#9 F:weborderWorldframeworkyiilite.php(3309): CController->runAction(Object(CInlineAction))
+#10 F:weborderWorldframeworkyiilite.php(3299): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 F:weborderWorldframeworkyiilite.php(1699): CController->run('view')
+#12 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/view')
+#13 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#14 F:weborderWorldindex.php(11): CApplication->run()
+#15 {main}
+REQUEST_URI=/sport/130406587994
+---
+2013/04/16 23:48:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:52:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:52:59 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_item_plan.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3`, `sport_item_plans`.`price` AS `t1_c4` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>'2013-04-17 00:00:00') AND (`sport_item_plans`.`siid`=:ypl0) ORDER BY sport_item_plan.date ASC.
+2013/04/16 23:52:59 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_item_plan.date' in 'order clause'. The SQL statement executed was: SELECT `sport_item_plans`.`sipid` AS `t1_c0`, `sport_item_plans`.`siid` AS `t1_c1`, `sport_item_plans`.`charge_type` AS `t1_c2`, `sport_item_plans`.`date` AS `t1_c3`, `sport_item_plans`.`price` AS `t1_c4` FROM `sport_item_plans` `sport_item_plans`  WHERE (date>'2013-04-17 00:00:00') AND (`sport_item_plans`.`siid`=:ypl0) ORDER BY sport_item_plan.date ASC' in F:weborderWorldframeworkyiilite.php:8799
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(8723): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 F:weborderWorldframeworkdbarCActiveFinder.php(784): CDbCommand->queryAll()
+#2 F:weborderWorldframeworkdbarCActiveFinder.php(499): CJoinElement->runQuery(Object(CJoinQuery))
+#3 F:weborderWorldframeworkdbarCActiveFinder.php(167): CJoinElement->lazyFind(Object(Sportitem))
+#4 F:weborderWorldframeworkyiilite.php(6837): CActiveFinder->lazyFind(Object(Sportitem))
+#5 F:weborderWorldframeworkyiilite.php(6760): CActiveRecord->getRelated('sport_item_plan...')
+#6 F:weborderWorldprotectedcontrollerssportController.php(53): CActiveRecord->__get('sport_item_plan...')
+#7 F:weborderWorldframeworkyiilite.php(3812): sportController->actionView()
+#8 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams(Array)
+#9 F:weborderWorldframeworkyiilite.php(3309): CController->runAction(Object(CInlineAction))
+#10 F:weborderWorldframeworkyiilite.php(3299): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 F:weborderWorldframeworkyiilite.php(1699): CController->run('view')
+#12 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/view')
+#13 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#14 F:weborderWorldindex.php(11): CApplication->run()
+#15 {main}
+REQUEST_URI=/sport/130406587994
+---
+2013/04/16 23:53:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 23:59:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "order" 动作.' in F:weborderWorldframeworkyiilite.php:3422
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3304): CController->missingAction('order')
+#1 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#2 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order/ste...')
+#3 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#4 F:weborderWorldindex.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/sport/order/step1.xhtml?ottid=110511787
+HTTP_REFERER=http://www.orderworld-local.com/sport/130406587994
+---
+2013/04/17 00:00:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/17 00:05:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/17 00:09:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/17 00:20:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/17 00:20:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message '此页面不存在' in F:weborderWorldprotectedcontrollerssportController.php:106
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3812): sportController->actionOrder()
+#1 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams(Array)
+#2 F:weborderWorldframeworkyiilite.php(3309): CController->runAction(Object(CInlineAction))
+#3 F:weborderWorldframeworkyiilite.php(3299): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#5 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order')
+#6 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#7 F:weborderWorldindex.php(11): CApplication->run()
+#8 {main}
+REQUEST_URI=/sport/order
+---
+2013/04/17 00:23:21 [error] [php] include(109906349.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (F:weborderWorldframeworkyiilite.php:238)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(6894): spl_autoload_call()
+#1 F:weborderWorldprotectedmodelsSportitemplan.php(15): model()
+#2 F:weborderWorldprotectedcontrollerssportController.php(108): model()
+#3 F:weborderWorldframeworkyiilite.php(3812): sportController->actionOrder()
+#4 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#5 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#6 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#7 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#8 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#9 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#10 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/order?sipid=109906349
+2013/04/17 00:24:47 [error] [php] include(109906349.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (F:weborderWorldframeworkyiilite.php:238)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(6894): spl_autoload_call()
+#1 F:weborderWorldprotectedmodelsSportitemplan.php(15): model()
+#2 F:weborderWorldprotectedcontrollerssportController.php(108): model()
+#3 F:weborderWorldframeworkyiilite.php(3812): sportController->actionOrder()
+#4 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#5 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#6 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#7 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#8 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#9 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#10 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/order?sipid=109906349
+2013/04/17 00:26:14 [error] [php] include(109906349.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (F:weborderWorldframeworkyiilite.php:238)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(6894): spl_autoload_call()
+#1 F:weborderWorldprotectedmodelsSportitemplan.php(15): model()
+#2 F:weborderWorldprotectedcontrollerssportController.php(108): model()
+#3 F:weborderWorldframeworkyiilite.php(3812): sportController->actionOrder()
+#4 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#5 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#6 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#7 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#8 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#9 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#10 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/order?sipid=109906349
+2013/04/17 00:26:29 [error] [php] include(109906349.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (F:weborderWorldframeworkyiilite.php:238)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(6894): spl_autoload_call()
+#1 F:weborderWorldprotectedmodelsSportitemplan.php(15): model()
+#2 F:weborderWorldprotectedcontrollerssportController.php(108): model()
+#3 F:weborderWorldframeworkyiilite.php(3812): sportController->actionOrder()
+#4 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#5 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#6 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#7 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#8 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#9 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#10 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/order?sipid=109906349
+2013/04/17 00:26:31 [error] [php] include(109906349.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (F:weborderWorldframeworkyiilite.php:238)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(6894): spl_autoload_call()
+#1 F:weborderWorldprotectedmodelsSportitemplan.php(15): model()
+#2 F:weborderWorldprotectedcontrollerssportController.php(108): model()
+#3 F:weborderWorldframeworkyiilite.php(3812): sportController->actionOrder()
+#4 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#5 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#6 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#7 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#8 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#9 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#10 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/order?sipid=109906349
+2013/04/17 00:28:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/17 00:42:20 [error] [php] Trying to get property of non-object (F:weborderWorldprotectedviewssportorderstep1.php:3)
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(3576): sportController->renderFile()
+#1 F:weborderWorldframeworkyiilite.php(3544): sportController->renderPartial()
+#2 F:weborderWorldprotectedcontrollerssportController.php(115): sportController->render()
+#3 F:weborderWorldframeworkyiilite.php(3812): sportController->actionOrder()
+#4 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams()
+#5 F:weborderWorldframeworkyiilite.php(3309): sportController->runAction()
+#6 F:weborderWorldframeworkyiilite.php(3299): sportController->runActionWithFilters()
+#7 F:weborderWorldframeworkyiilite.php(1699): sportController->run()
+#8 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController()
+#9 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#10 F:weborderWorldindex.php(11): CWebApplication->run()
+REQUEST_URI=/sport/order?sipid=130416466066
+2013/04/17 01:08:25 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_plan_fields.start_time' in 'order clause'. The SQL statement executed was: SELECT `sport_plan_fields`.`spfid` AS `t1_c0`, `sport_plan_fields`.`sipid` AS `t1_c1`, `sport_plan_fields`.`name` AS `t1_c2`, `sport_plan_fields`.`is_show` AS `t1_c3`, `sport_plan_fields`.`add_time` AS `t1_c4` FROM `sport_plan_fields` `sport_plan_fields`  WHERE (`sport_plan_fields`.`sipid`=:ypl0) ORDER BY sport_plan_fields.start_time ASC.
+2013/04/17 01:08:25 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sport_plan_fields.start_time' in 'order clause'. The SQL statement executed was: SELECT `sport_plan_fields`.`spfid` AS `t1_c0`, `sport_plan_fields`.`sipid` AS `t1_c1`, `sport_plan_fields`.`name` AS `t1_c2`, `sport_plan_fields`.`is_show` AS `t1_c3`, `sport_plan_fields`.`add_time` AS `t1_c4` FROM `sport_plan_fields` `sport_plan_fields`  WHERE (`sport_plan_fields`.`sipid`=:ypl0) ORDER BY sport_plan_fields.start_time ASC' in F:weborderWorldframeworkyiilite.php:8799
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(8723): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 F:weborderWorldframeworkdbarCActiveFinder.php(784): CDbCommand->queryAll()
+#2 F:weborderWorldframeworkdbarCActiveFinder.php(499): CJoinElement->runQuery(Object(CJoinQuery))
+#3 F:weborderWorldframeworkdbarCActiveFinder.php(167): CJoinElement->lazyFind(Object(Sportitemplan))
+#4 F:weborderWorldframeworkyiilite.php(6837): CActiveFinder->lazyFind(Object(Sportitemplan))
+#5 F:weborderWorldframeworkyiilite.php(6760): CActiveRecord->getRelated('sport_plan_fiel...')
+#6 F:weborderWorldprotectedviewssportorderstep1.php(131): CActiveRecord->__get('sport_plan_fiel...')
+#7 F:weborderWorldframeworkyiilite.php(3173): require('F:weborderWor...')
+#8 F:weborderWorldframeworkyiilite.php(3152): CBaseController->renderInternal('F:weborderWor...', Array, true)
+#9 F:weborderWorldframeworkyiilite.php(3576): CBaseController->renderFile('F:weborderWor...', Array, true)
+#10 F:weborderWorldframeworkyiilite.php(3544): CController->renderPartial('orderstep1', Array, true)
+#11 F:weborderWorldprotectedcontrollerssportController.php(115): CController->render('orderstep1', Array)
+#12 F:weborderWorldframeworkyiilite.php(3812): sportController->actionOrder()
+#13 F:weborderWorldframeworkyiilite.php(3324): CInlineAction->runWithParams(Array)
+#14 F:weborderWorldframeworkyiilite.php(3309): CController->runAction(Object(CInlineAction))
+#15 F:weborderWorldframeworkyiilite.php(3299): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 F:weborderWorldframeworkyiilite.php(1699): CController->run('order')
+#17 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('sport/order')
+#18 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#19 F:weborderWorldindex.php(11): CApplication->run()
+#20 {main}
+REQUEST_URI=/sport/order?sipid=130416466066
+HTTP_REFERER=http://www.orderworld-local.com/sport/order?sipid=130416619727
+---
+2013/04/17 01:08:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "favicon.ico"。' in F:weborderWorldframeworkyiilite.php:1703
+Stack trace:
+#0 F:weborderWorldframeworkyiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 F:weborderWorldframeworkyiilite.php(1144): CWebApplication->processRequest()
+#2 F:weborderWorldindex.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---

@@ -1,15 +1,11 @@
 <?php
 /**
- * 体育馆的场馆类
+ * 场馆预定信息类
  * @author yangjing
  *
  */
-class Sportitem extends CActiveRecord
+class Sportplanfield extends CActiveRecord
 {
-	const STATUS_DRAFT=1;
-	const STATUS_PUBLISHED=2;
-	const STATUS_ARCHIVED=3;
-
 	/**
 	 * Returns the static model of the specified AR class.
 	 * @return CActiveRecord the static model class
@@ -24,11 +20,11 @@ class Sportitem extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return 'sport_items';
+		return 'sport_plan_fields';
 	}
 	public function primaryKey()
 	{
-		return 'siid';
+		return 'spfid';
 		// 对于复合主键，要返回一个类似如下的数组
 		// return array('pk1', 'pk2');
 	}
@@ -41,8 +37,7 @@ class Sportitem extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'sport' => array(self::BELONGS_TO, 'Sport', 'sid'),
-			'sport_item_plans' => array(self::HAS_MANY, 'Sportitemplan', 'siid', 'order'=>'sport_item_plans.date ASC','condition'=>'date>=\''.date('Y-m-d H:i:s',strtotime(date('Y-m-d'))+86400).'\'')
+			'sport_item_plan' => array(self::BELONGS_TO, 'Sport', 'sipid'),
 		);
 	}
 

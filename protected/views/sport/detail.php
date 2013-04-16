@@ -169,165 +169,56 @@
 	            </ul>
 	            <div class="tab-content" id="myTabContent">
 	            	<?php foreach ($sportItems as $sportItem) {?>
-					<div id="item_<?php echo $sportItem['siid'];?>" class="tab-pane fade active in">
+					<div id="item_<?php echo $sportItem['siid'];?>" class="tab-pane fade <?php echo $sportItem==reset($sportItems) ? 'active' : '';?> in">
 						<div id="ottDiv">
 							<div class="detail_ticket_chooseBg">
-								<span title="室内">场地位置：室内</span>
-								<span title="专业塑胶">场地材质：专业塑胶</span>
-								<span title="8片">场地数量：8片</span>
-								<span title="10米">场馆挑高：10米</span>
+							<?php $sportItemInfos = unserialize($sportItem['info']);?>
+							<?php foreach($sportItemInfos as $key=>$sportItemInfo) {?>
+								<span title="室内"><?php echo $key;?>：<?php echo $sportItemInfo;?></span>
+							<?php }?>
 							</div>
 							<div class="chooseOpi mt10 row" style="height:auto">
-						<div class="chooseOpi_head span12">
-							<div class="row">
-								<span class="span3"><b>预订日期</b></span>
-								<span class="span3"><b>价格(元)</b></span>
-								<span class="span3"><b>说明</b></span>
-								<span class="span2"><b>预订</b></span>
-							</div>
-						</div>
-						<div class="chooseOpi_body" style="overflow:hidden;padding-right:0;height:auto;">
-							<ul style="margin-top:0px;" class="clear row">
+								<?php if ($sportItem['sport_item_plans']) {?>
+								<div class="chooseOpi_head span12">
+									<div class="row">
+										<span class="span4"><b>预订日期</b></span>
+										<span class="span4"><b>价格(元)</b></span>
+		<!-- 								<span class="span3"><b>说明</b></span> -->
+										<span class="span2"><b>预订</b></span>
+									</div>
+								</div>
+								<?php $weekarray=array("日","一","二","三","四","五","六");?>
+								<div class="chooseOpi_body" style="overflow:hidden;padding-right:0;height:auto;">
+									<ul style="margin-top:0px;" class="clear row">
+										<?php foreach ($sportItem['sport_item_plans'] as $sportItemPlan) {?>
 										<li class="span12">
 	    									<div class="row">
-												<span class="opitime span3"><b>03-21&nbsp;周四</b></span>
-												<span class="opiPrice span3">
+												<span class="opitime span4"><b><?php echo substr($sportItemPlan['date'],5,5);?>&nbsp;周<?php echo $weekarray[date("w",strtotime($sportItemPlan['date']))]; ?></b></span>
+												<span class="opiPrice span4">
 													<em>(45)</em><b>45</b>
 												</span>
-												<span class="opiInfo span3">
-													<em title="支持积分抵值" class="j">积</em><em title="支持票券抵值" class="q">券</em><em title="支持支付优惠" class="y">惠</em>				
-												</span>
 												<span class="opiurl sport_btn span3">
-													<a target="_blank" class="btn btn-small btn-info" href="/sport/order/step1.xhtml?ottid=109906349">立即预订</a>
+													<a target="_blank" class="btn btn-small btn-info" href="/sport/order?sipid=<?php echo $sportItemPlan['sipid'];?>">立即预订</a>
 												</span>
 											</div>
 										</li>
-										<li class="span12">
-	    									<div class="row">
-												<span class="opitime span3"><b>03-21&nbsp;周四</b></span>
-												<span class="opiPrice span3">
-													<em>(45)</em><b>45</b>
-												</span>
-												<span class="opiInfo span3">
-													<em title="支持积分抵值" class="j">积</em><em title="支持票券抵值" class="q">券</em><em title="支持支付优惠" class="y">惠</em>				
-												</span>
-												<span class="opiurl sport_btn span3">
-													<a href="/sport/order/step1.xhtml?ottid=109906349" class="btn btn-small btn-success" target="_blank">立即预订</a>
-												</span>
-											</div>
-										</li>
-										<li class="span12">
-	    									<div class="row">
-												<span class="opitime span3"><b>03-21&nbsp;周四</b></span>
-												<span class="opiPrice span3">
-													<em>(45)</em><b>45</b>
-												</span>
-												<span class="opiInfo span3">
-													<em title="支持积分抵值" class="j">积</em><em title="支持票券抵值" class="q">券</em><em title="支持支付优惠" class="y">惠</em>				
-												</span>
-												<span class="opiurl sport_btn span3">
-												<a href="/sport/order/step1.xhtml?ottid=109906349" class="btn btn-small btn-danger" target="_blank">立即预订</a>
-											</span>
-											</div>
-										</li>
-										<li class="span12">
-	    									<div class="row">
-												<span class="opitime span3"><b>03-21&nbsp;周四</b></span>
-												<span class="opiPrice span3">
-													<em>(45)</em><b>45</b>
-												</span>
-												<span class="opiInfo span3">
-													<em title="支持积分抵值" class="j">积</em><em title="支持票券抵值" class="q">券</em><em title="支持支付优惠" class="y">惠</em>				
-												</span>
-												<span class="opiurl sport_btn span3">
-												<a href="/sport/order/step1.xhtml?ottid=109906349" class="btn btn-small btn-primary" target="_blank">立即预订</a>
-											</span>
-											</div>
-										</li>
-										<li class="span12">
-	    									<div class="row">
-												<span class="opitime span3"><b>03-21&nbsp;周四</b></span>
-												<span class="opiPrice span3">
-													<em>(45)</em><b>45</b>
-												</span>
-												<span class="opiInfo span3">
-													<em title="支持积分抵值" class="j">积</em><em title="支持票券抵值" class="q">券</em><em title="支持支付优惠" class="y">惠</em>				
-												</span>
-												<span class="opiurl sport_btn span3">
-												<a href="/sport/order/step1.xhtml?ottid=109906349" class="btn btn-small btn-warning" target="_blank">立即预订</a>
-											</span>
-											</div>
-										</li>
-										<li class="span12">
-	    									<div class="row">
-												<span class="opitime span3"><b>03-21&nbsp;周四</b></span>
-												<span class="opiPrice span3">
-													<em>(45)</em><b>45</b>
-												</span>
-												<span class="opiInfo span3">
-													<em title="支持积分抵值" class="j">积</em><em title="支持票券抵值" class="q">券</em><em title="支持支付优惠" class="y">惠</em>				
-												</span>
-												<span class="opiurl sport_btn span3">
-												<a href="/sport/order/step1.xhtml?ottid=109906349" class="btn btn-small btn-inverse" target="_blank">立即预订</a>
-											</span>
-											</div>
-										</li>
-										<li class="span12">
-	    									<div class="row">
-												<span class="opitime span3"><b>03-21&nbsp;周四</b></span>
-												<span class="opiPrice span3">
-													<em>(45)</em><b>45</b>
-												</span>
-												<span class="opiInfo span3">
-													<em title="支持积分抵值" class="j">积</em><em title="支持票券抵值" class="q">券</em><em title="支持支付优惠" class="y">惠</em>				
-												</span>
-												<span class="opiurl sport_btn span3">
-												<a href="/sport/order/step1.xhtml?ottid=109906349" class="btn btn-small" target="_blank">立即预订</a>
-											</span>
-											</div>
-										</li>
+										<?php }?>
 									</ul>
 								</div>
 								<div class="chooseOpi_footer span12">
 									<span>*该场馆提前120分钟关闭预订。</span>
 								</div>
+								<?php } else {?>
+								<div class="chooseOpi_head span12" style="background: #FFFFDD;">
+									很抱歉，暂无场次信息
+								</div>
+								<?php }?>
 							</div>
 						</div>
 					</div>
 					<?php }?>
 	            </div>
 				<div class="clearfix mt20">
-					<div class="title"><h5>最近购票会员</h5></div>
-					<ul class="thumbnails">
-						<li>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" class="pubpic" target="_blank"><img width="50" height="50" src="http://img6.gewara.com/cw50h50/img/default_head.png" alt=""></a><br>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" title="朱小样儿" target="_blank">朱小样儿</a><br><span class="c6">1天前</span>
-						</li>
-						<li>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" class="pubpic" target="_blank"><img width="50" height="50" src="http://img6.gewara.com/cw50h50/img/default_head.png" alt=""></a><br>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" title="朱小样儿" target="_blank">朱小样儿</a><br><span class="c6">1天前</span>
-						</li>
-						<li>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" class="pubpic" target="_blank"><img width="50" height="50" src="http://img6.gewara.com/cw50h50/img/default_head.png" alt=""></a><br>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" title="朱小样儿" target="_blank">朱小样儿</a><br><span class="c6">1天前</span>
-						</li>
-						<li>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" class="pubpic" target="_blank"><img width="50" height="50" src="http://img6.gewara.com/cw50h50/img/default_head.png" alt=""></a><br>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" title="朱小样儿" target="_blank">朱小样儿</a><br><span class="c6">1天前</span>
-						</li>
-						<li>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" class="pubpic" target="_blank"><img width="50" height="50" src="http://img6.gewara.com/cw50h50/img/default_head.png" alt=""></a><br>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" title="朱小样儿" target="_blank">朱小样儿</a><br><span class="c6">1天前</span>
-						</li>
-						<li>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" class="pubpic" target="_blank"><img width="50" height="50" src="http://img6.gewara.com/cw50h50/img/default_head.png" alt=""></a><br>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" title="朱小样儿" target="_blank">朱小样儿</a><br><span class="c6">1天前</span>
-						</li>
-						<li>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" class="pubpic" target="_blank"><img width="50" height="50" src="http://img6.gewara.com/cw50h50/img/default_head.png" alt=""></a><br>
-							<a href="/home/sns/othersPersonIndex.xhtml?memberid=40489091" title="朱小样儿" target="_blank">朱小样儿</a><br><span class="c6">1天前</span>
-						</li>
-					</ul>
 				</div>
 	        </div>
 	        <?php }?>

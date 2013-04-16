@@ -42,9 +42,19 @@ class sportController extends Controller
 	 * 体育馆详情
 	 */
 	public function actionView() {
+		//获取体育馆 activerecord 对象
 		$sportModel = Sport::model()->findByPk($this->sid);
-		foreach($sportModel->sport_items as $sportItem){
-			$sportItems[] = $sportItem->getAttributes();
+		//获取体育馆关联的场馆信息 关联类--》sportitem
+		$sportItems = array();
+		foreach($sportModel->sport_items as $key=>$sportItem){
+			$sportItems[$key] = $sportItem->getAttributes();
+			//获取关联的计划表内容  关联类--》sportitemplan
+			$plans = array();
+			$tmpPlans = $sportItem->sport_item_plans;
+			foreach ($tmpPlans as $plan) {
+				$plans[] = $plan->getAttributes();
+			}
+			$sportItems[$key]['sport_item_plans'] = $plans;
 		}
 		if (is_null($sportModel)) {
 			throw new CHttpException(404,'此页面不存在');
@@ -84,6 +94,26 @@ class sportController extends Controller
 	*/
 	public function actionNewslist() {
 		echo '咨询信息';
+	}
+	
+	/**
+	 * 场地预定信息
+	 */
+	public function actionOrder() {
+		//预定信息id
+		$sipid = Yii::app()->request->getQuery('sipid');
+		if (!$sipid) {
+			throw new CHttpException(404,'此页面不存在');
+		}
+		$sportItemPlan = Sportitemplan::model()->findByPk($sipid);
+		if (!$sportItemPlan) {
+			throw new CHttpException(404,'此页面不存在');
+		}
+		//获取关联的体育馆  中间通过两次BELONGS_TO关联
+		$sportModel = $sportItemPlan->sport_item->sport;
+		
+		$this->render('orderstep1',array('sport'=>$sportModel,'sportItemPlan'=>$sportItemPlan));
+// 		print_r($sportItemPlan->sport_plan_fields[0]->getAttributes());exit;
 	}
 	
 	public function actionAdd() {
