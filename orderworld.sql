@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50130
 File Encoding         : 65001
 
-Date: 2013-04-17 01:14:29
+Date: 2013-04-18 00:48:04
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -196,6 +196,27 @@ INSERT INTO `sport_items` VALUES ('130410065149', '130406587994', '羽毛球', '
 INSERT INTO `sport_items` VALUES ('130410610076', '130406587994', '篮球', 'a:3:{s:12:\"场地位置\";s:6:\"室内\";s:12:\"场地材质\";s:12:\"专业塑胶\";s:12:\"场地数量\";s:4:\"6片\";}', '');
 
 -- ----------------------------
+-- Table structure for `sport_item_fields`
+-- ----------------------------
+DROP TABLE IF EXISTS `sport_item_fields`;
+CREATE TABLE `sport_item_fields` (
+  `sifid` char(12) NOT NULL,
+  `siid` char(12) NOT NULL COMMENT '场馆id',
+  `name` varchar(255) NOT NULL COMMENT '收费标准：0：按场地；1：按人数,按场地关联场地表,按人数关联',
+  PRIMARY KEY (`sifid`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='场馆场地表，用于添加预定信息时从中快速选择';
+
+-- ----------------------------
+-- Records of sport_item_fields
+-- ----------------------------
+INSERT INTO `sport_item_fields` VALUES ('130416187911', '130410065149', '一号场地');
+INSERT INTO `sport_item_fields` VALUES ('130416791312', '130410065149', '二号场地');
+INSERT INTO `sport_item_fields` VALUES ('130416050513', '130410065149', '三号场地');
+INSERT INTO `sport_item_fields` VALUES ('130416229514', '130410065149', '四号场地');
+INSERT INTO `sport_item_fields` VALUES ('130416619715', '130410065149', '五号场地');
+INSERT INTO `sport_item_fields` VALUES ('130416466016', '130410065149', '六号场地');
+
+-- ----------------------------
 -- Table structure for `sport_item_plans`
 -- ----------------------------
 DROP TABLE IF EXISTS `sport_item_plans`;
@@ -206,7 +227,7 @@ CREATE TABLE `sport_item_plans` (
   `date` datetime NOT NULL COMMENT '日期',
   `price` varchar(8) DEFAULT NULL COMMENT '一般价格',
   PRIMARY KEY (`sipid`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='场馆可供预定信息';
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='场馆可供预定信息，预定日期';
 
 -- ----------------------------
 -- Records of sport_item_plans
@@ -224,18 +245,21 @@ INSERT INTO `sport_item_plans` VALUES ('130416466066', '130410065149', '0', '201
 DROP TABLE IF EXISTS `sport_plan_fields`;
 CREATE TABLE `sport_plan_fields` (
   `spfid` char(12) NOT NULL,
-  `sipid` char(12) NOT NULL COMMENT '对应的预定信息id',
-  `name` varchar(255) NOT NULL DEFAULT '未标号场地' COMMENT '场地名称',
+  `sipid` char(12) NOT NULL COMMENT '对应的预定信息/日期id',
+  `price` float(8,2) NOT NULL DEFAULT '0.00' COMMENT '价格',
+  `time` datetime DEFAULT NULL COMMENT '时间段',
+  `sifid` char(12) NOT NULL COMMENT '场地id',
+  `name` varchar(255) DEFAULT '' COMMENT '场地名称，冗余字段',
   `is_show` tinyint(1) NOT NULL DEFAULT '1' COMMENT '这个场地是否显示',
   `add_time` datetime NOT NULL,
   PRIMARY KEY (`spfid`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='场馆场地表，与场馆是多对一的关系';
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='场馆可预订信息表，与场馆是多对一的关系，按场地的预定';
 
 -- ----------------------------
 -- Records of sport_plan_fields
 -- ----------------------------
-INSERT INTO `sport_plan_fields` VALUES ('130417542036', '130416466066', '1号场地', '1', '0000-00-00 00:00:00');
-INSERT INTO `sport_plan_fields` VALUES ('130417727190', '130416466066', '2号场地', '1', '0000-00-00 00:00:00');
+INSERT INTO `sport_plan_fields` VALUES ('130417542036', '130416466066', '0.00', '2013-04-19 09:00:00', '130416187911', '1号场地', '1', '0000-00-00 00:00:00');
+INSERT INTO `sport_plan_fields` VALUES ('130417727190', '130416466066', '0.00', '2013-04-19 10:00:00', '130416187911', '2号场地', '1', '0000-00-00 00:00:00');
 
 -- ----------------------------
 -- Table structure for `sport_plan_person`
