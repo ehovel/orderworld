@@ -97,7 +97,13 @@ class sportController extends Controller
 	}
 	
 	/**
-	 * 场地预定信息
+	 * 场地预定信息  
+	 * ———————————— 该逻辑是 ——————————
+	 * 根据预定信息sipid，获得预定信息，预定信息不是今天以后的则会提示已过预定时间
+	 * 根据预定信息sipid，可以反推出预定场馆sport_item，预定体育馆 sport
+	 * 根据预定信息sipid，可以正推出预定场地信息，预定场地有很多个，根据场地sifid进行分组展示
+	 * ———————————— over   ———————————
+	 * 
 	 */
 	public function actionOrder() {
 		//预定信息id
@@ -109,10 +115,30 @@ class sportController extends Controller
 		if (!$sportItemPlan) {
 			throw new CHttpException(404,'此页面不存在');
 		}
+		if ($sportItemPlan->date < date('Y-m-d',time())) {
+			echo '此场馆已过预定时间,请查看其它预定信息';
+		}
 		//获取关联的体育馆  中间通过两次BELONGS_TO关联
 		$sportModel = $sportItemPlan->sport_item->sport;
+		//获取预定计划sipid，获取可预订场地信息
+		$sportPlanFileds = Sportplanfield::model()->findAll('sipid = :sipid', array(':sipid'=>$sipid));
 		
-		$this->render('orderstep1',array('sport'=>$sportModel,'sportItemPlan'=>$sportItemPlan));
+		//获取预定计划对应的场馆，场馆下面的所有场地，用来给预定信息分组
+		foreach ($sportItemPlan->sport_item->sport_item_fields as $sportItemFiled) {
+			$sport_item_fields[] = $sportItemFiled;
+			$fieldIds[] = $sportItemFiled->sifid;
+		}
+		
+		//重新分组后的
+		$sportPlanGroupedFileds = array();
+		foreach ($sportPlanFileds as $sportPlanField) {
+			if (in_array($sportPlanField->sifid,$fieldIds)) {
+				$sportPlanGroupedFileds[$sportPlanField->sifid][] = $sportItemFiled->getAttributes();
+			}
+		}
+		print_r($sportPlanGroupedFileds);exit;
+		
+		$this->render('orderstep1',array('sport'=>$sportModel,'sportItemPlan'=>$sportItemPlan,'sport_item_fields'=>$sport_item_fields));
 // 		print_r($sportItemPlan->sport_plan_fields[0]->getAttributes());exit;
 	}
 	

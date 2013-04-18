@@ -83,7 +83,7 @@
 
 <div class="container">
 	<ul class="nav nav-tabs">
-		<li><a href="#">首页</a></li>
+		<li><a href="/sport/<?php echo $sport->sid;?>">首页</a></li>
 		<li class="active"><a href="/sport/<?php echo $sport->sid;?>/pricetable">价格信息</a></li>
 		<li><a href="/sport/<?php echo $sport->sid;?>/activitylist">活动<span>(7)</span></a></li>
 		<li><a href="/sport/<?php echo $sport->sid;?>/commentlist">评论<span>(72)</span></a></li>
@@ -128,7 +128,7 @@
 						<dl class="has_pk clear">
 							<dt>
 								<span class="out"> <b>时间</b> <em>场地</em></span>
-								<?php foreach ($sportItemPlan->sport_plan_fields as $planField) {?>
+								<?php foreach ($sport_item_fields as $planField) {?>
 								<span><?php echo $planField->name;?></span>
 								<?php }?>
 							</dt>
