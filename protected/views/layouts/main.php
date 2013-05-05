@@ -7,7 +7,6 @@
     <link rel="shortcut icon" type="image/x-icon" href="../../image/icon.jpg" media="screen">
 	<script src="<?php echo Yii::app()->request->baseUrl; ?>/js/jquery-1.7.2.min.js" type="text/javascript"></script>
 	<script type="text/javascript" href="<?php echo Yii::app()->request->baseUrl; ?>/js/jquery.cookie.js"></script>
-	<script type="text/javascript" href="<?php echo Yii::app()->request->baseUrl; ?>/js/jquery.base64.min.js"></script>
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
 
@@ -21,12 +20,16 @@
 				<li><a href="#">推荐体育馆</a></li>
 				<li style="background:none;"><a href="javascript:addToFavorite()">收藏本站</a></li>
 			</ul>
-			<ul class="right" id="if_login">
+			<ul class="right inline" id="if_login">
 				<!-- <li>您好！欢迎来到一点就订！[&nbsp;<a href="/index.php/site/login">登录</a>&nbsp;]&nbsp;&nbsp;[&nbsp;<a href="/index.php/site/register">免费注册</a>&nbsp;]</li> -->
 				<?php if(!Yii::app()->user->getState('id')){?>
-					<li>您好！欢迎来到一点就订！<a href="/index.php/site/login"><img src="../../image/header_login.jpg"></a>&nbsp;&nbsp;<a href="/index.php/site/register"><img src="../../image/header_register.jpg"></a></li>
+					<li >您好！欢迎来到一点就订！</li>
+					<li><a href="/index.php/site/login"><img src="../../image/header_login.jpg"></a></li>
+					<li><a href="/index.php/site/register"><img src="../../image/header_register.jpg"></a></li>
 				<?php }else{?>
-					<li><?php echo Yii::app()->user->info['user_name'];?>&nbsp;&nbsp;&nbsp;<a href="">我的订单</a>&nbsp;&nbsp;&nbsp;<a href="/index.php/site/loginout">[退出]</a></li>
+					<li><?php echo Yii::app()->user->info['user_name'];?></li>
+					<li><a href="">我的订单</a></li>
+					<li><a href="/index.php/site/loginout">[退出]</a></li>
 				<?php }?>
 			</ul>
 			<span class="clr"></span>

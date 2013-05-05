@@ -31,9 +31,50 @@ a:link, a:visited {
     text-decoration: none;
 }
 
+#header li a {
+	vertical-align: middle;	
+}
 #header li a:hover, #header li a:active {
     color: white;
     text-decoration: none;
+}
+/*首页*/
+.index_container {
+	background:#fff;
+	min-height:800px;
+    margin-top:-15px;
+}
+.index_container .form-horizontal {
+	padding-top:30px;
+}
+.index_container .container {
+	border:none;
+	border-radius:0;
+	box-shadow: none;
+	padding:100px 0 0 0;
+}
+.index_container .index_title{
+	padding-top:30px;	
+}
+
+.index_bg01 {
+	background:url("../image/index_bg01.jpg") no-repeat left;
+	height:60px;
+}
+.index_bg02 {
+	background:url("../image/index_bg02.jpg") no-repeat right;
+	height:60px;
+}
+.index_bg03 {
+	background:url("../image/index_bg03.jpg") no-repeat;
+	height:500px;
+}
+
+.index_container .control-label {
+	width:40px;
+}
+.index_container .form-horizontal .controls {
+	margin-left:60px;
 }
 /*表单*/
 .control-group input.error {
@@ -938,8 +979,6 @@ sub {
 }
 .uipic, .uiText, .ui_left, .ui_right {
     float: left;
-    margin-bottom: -30000px;
-    padding-bottom: 30000px;
 }
 .uipic {
     display: inline-block;
@@ -1015,6 +1054,7 @@ body .fl {
     width: 990px;
 	border:2px solid #EDECE7;
 	font-weight:bold;
+	background: none repeat scroll 0 0 #FFFFFF;
 }
 
 h5 {

@@ -117,6 +117,7 @@ class sportController extends Controller
 		}
 		if ($sportItemPlan->date < date('Y-m-d',time())) {
 			echo '此场馆已过预定时间,请查看其它预定信息';
+			exit;
 		}
 		//获取关联的体育馆  中间通过两次BELONGS_TO关联
 		$sportModel = $sportItemPlan->sport_item->sport;
@@ -129,16 +130,15 @@ class sportController extends Controller
 			$fieldIds[] = $sportItemFiled->sifid;
 		}
 		
-		//重新分组后的
+		//重新分组后的每个场地&时间安排
 		$sportPlanGroupedFileds = array();
 		foreach ($sportPlanFileds as $sportPlanField) {
 			if (in_array($sportPlanField->sifid,$fieldIds)) {
-				$sportPlanGroupedFileds[$sportPlanField->sifid][] = $sportItemFiled->getAttributes();
+				$sportPlanGroupedFileds[$sportPlanField->sifid][] = $sportPlanField->getAttributes();
 			}
 		}
-		print_r($sportPlanGroupedFileds);exit;
-		
-		$this->render('orderstep1',array('sport'=>$sportModel,'sportItemPlan'=>$sportItemPlan,'sport_item_fields'=>$sport_item_fields));
+// 		print_r($sportPlanGroupedFileds);exit;
+		$this->render('orderstep1',array('sport'=>$sportModel,'sportItemPlan'=>$sportItemPlan,'sport_item_fields'=>$sport_item_fields,'sport_plan_fields'=>$sportPlanGroupedFileds));
 // 		print_r($sportItemPlan->sport_plan_fields[0]->getAttributes());exit;
 	}
 	
